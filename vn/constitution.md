@@ -11,17 +11,19 @@ Từ năm 1986 đến nay, công cuộc đổi mới toàn diện đất nước
 
 Hiến pháp này quy định chế độ chính trị, kinh tế, văn hoá, xã hội, quốc phòng, an ninh, quyền và nghĩa vụ cơ bản của công dân, cơ cấu, nguyên tắc tổ chức và hoạt động của các cơ quan Nhà nước, thể chế hoá mối quan hệ giữa Đảng lãnh đạo, nhân dân làm chủ, Nhà nước quản lý.
 
-Dưới ánh sáng của chủ nghĩa Mác - Lê nin và tư tưởng Hồ Chí Minh, thực hiện Cương lĩnh xây dựng đất nước trong thời kỳ qúa độ lên chủ nghĩa xã hội, nhân dân Việt Nam nguyện đoàn kết một lòng, nêu cao tinh thần tự lực, tự cường xây dựng đất nước, thực hiện đường lối đối ngoại độc lập, tự chủ, hoà bình, hữu nghị, hợp tác với tất cả các nước, nghiêm chỉnh thi hành Hiến pháp, giành những thắng lợi to lớn hơn nữa trong sự nghiệp đổi mới, xây dựng và bảo vệ Tổ quốc.
+Dưới ánh sáng của chủ nghĩa Mác - Lê nin và tư tưởng Hồ Chí Minh, thực hiện Cương lĩnh xây dựng đất nước trong thời kỳ quá độ lên chủ nghĩa xã hội, nhân dân Việt Nam nguyện phát huy truyền thống yêu nước, đoàn kết một lòng, nêu cao tinh thần tự lực, tự cường xây dựng đất nước, thực hiện đường lối đối ngoại độc lập, tự chủ, hoà bình, hữu nghị, hợp tác với tất cả các nước, nghiêm chỉnh thi hành Hiến pháp, giành những thắng lợi to lớn hơn nữa trong sự nghiệp đổi mới, xây dựng và bảo vệ Tổ quốc.
 
 ## Chương I: NƯỚC CỘNG HOÀ XÃ HỘI CHỦ NGHĨA VIỆT NAM - CHẾ ĐỘ CHÍNH TRỊ
 #### Điều 1
 Nước Cộng hoà xã hội chủ nghĩa Việt Nam là một nước độc lập, có chủ quyền, thống nhất và toàn vẹn lãnh thổ, bao gồm đất liền, các hải đảo, vùng biển và vùng trời.
 
 #### Điều 2
-Nhà nước Cộng hoà xã hội chủ nghĩa Việt Nam là Nhà nước của nhân dân, do nhân dân, vì nhân dân. Tất cả quyền lực Nhà nước thuộc về nhân dân mà nền tảng là liên minh giai cấp công nhân với giai cấp nông dân và tầng lớp trí thức.
+Nhà nước Cộng hoà xã hội chủ nghĩa Việt Nam là Nhà nước pháp quyền xã hội chủ nghĩa của nhân dân, do nhân dân, vì nhân dân. Tất cả quyền lực Nhà nước thuộc về nhân dân mà nền tảng là liên minh giữa giai cấp công nhân với giai cấp nông dân và đội ngũ trí thức.
+
+Quyền lực Nhà nước là thống nhất, có sự phân công và phối hợp giữa các cơ quan Nhà nước trong việc thực hiện các quyền lập pháp, hành pháp, tư pháp.
 
 #### Điều 3
-Nhà nước bảo đảm và không ngừng phát huy quyền làm chủ về mọi mặt của nhân dân, nghiêm trị mọi hành động xâm phạm lợi ích của Tổ quốc và của nhân dân; xây dựng đất nước giàu mạnh, thực hiện công bằng xã hội, mọi người có cuộc sống ấm no, tự do, hạnh phúc, có điều kiện phát triển toàn diện.
+Nhà nước bảo đảm và không ngừng phát huy quyền làm chủ về mọi mặt của nhân dân, thực hiện mục tiêu dân giàu, nước mạnh, xã hội công bằng, dân chủ, văn minh, mọi người có cuộc sống ấm no, tự do, hạnh phúc, có điều kiện phát triển toàn diện; nghiêm trị mọi hành động xâm phạm lợi ích của Tổ quốc và của nhân dân.
 
 #### Điều 4
 Đảng Cộng sản Việt Nam, đội tiên phong của giai cấp công nhân Việt Nam, đại biểu trung thành quyền lợi của giai cấp công nhân, nhân dân lao động và của cả dân tộc, theo chủ nghĩa Mác - Lê Nin và tư tưởng Hồ Chí Minh, là lực lượng lãnh đạo Nhà nước và xã hội.
@@ -48,9 +50,11 @@ Việc bầu cử đại biểu Quốc hội và đại biểu Hội đồng nh�
 Đại biểu Quốc hội bị cử tri hoặc Quốc hội bãi nhiệm và đại biểu Hội đồng nhân dân bị cử tri hoặc Hội đồng nhân dân bãi nhiệm khi đại biểu đó không còn xứng đáng với sự tín nhiệm của nhân dân.
 
 #### Điều 8
-Các cơ quan Nhà nước, cán bộ, viên chức Nhà nước phải tôn trọng nhân dân, tận tụy phục vụ nhân dân, liên hệ chặt chẽ với nhân dân, lắng nghe ý kiến và chịu sự giám sát của nhân dân; kiên quyết đấu tranh chống mọi biểu hiện quan liêu, hách dịch, cửa quyền, tham nhũng.
+Các cơ quan Nhà nước, cán bộ, viên chức Nhà nước phải tôn trọng nhân dân, tận tụy phục vụ nhân dân, liên hệ chặt chẽ với nhân dân, lắng nghe ý kiến và chịu sự giám sát của nhân dân; kiên quyết đấu tranh chống tham nhũng, lãng phí và mọi biểu hiện quan liêu, hách dịch, cửa quyền.
 
 #### Điều 9
+Mặt trận Tổ quốc Việt Nam là tổ chức liên minh chính trị, liên hiệp tự nguyện của tổ chức chính trị, các tổ chức chính trị - xã hội, tổ chức xã hội và các cá nhân tiêu biểu trong các giai cấp, các tầng lớp xã hội, các dân tộc, các tôn giáo và người Việt Nam định cư ở nước ngoài.
+
 Mặt trận Tổ quốc Việt Nam và các tổ chức thành viên là cơ sở chính trị của chính quyền nhân dân. Mặt trận phát huy truyền thống đoàn kết toàn dân, tăng cường sự nhất trí về chính trị và tinh thần trong nhân dân, tham gia xây dựng và củng cố chính quyền nhân dân, cùng Nhà nước chăm lo và bảo vệ lợi ích chính đáng của nhân dân, động viên nhân dân thực hiện quyền làm chủ, nghiêm chỉnh thi hành Hiến pháp và pháp luật, giám sát hoạt động của cơ quan Nhà nước, đại biểu dân cử và cán bộ, viên chức Nhà nước.
 
 Nhà nước tạo điều kiện để Mặt trận Tổ quốc và các tổ chức thành viên hoạt động có hiệu quả.
@@ -78,25 +82,27 @@ Nước Cộng hoà xã hội chủ nghĩa Việt Nam thực hiện chính sách
 
 ## Chương II: CHẾ ĐỘ KINH TẾ
 #### Điều 15
-Nhà nước phát triển nền kinh tế hàng hoá nhiều thành phần theo cơ chế thị trường có sự quản lý của Nhà nước, theo định hướng xã hội chủ nghĩa. Cơ cấu kinh tế nhiều thành phần với các hình thức tổ chức sản xuất, kinh doanh đa dạng dựa trên chế độ sở hữu toàn dân, sở hữu tập thể, sở hữu tư nhân, trong đó sở hữu toàn dân và sở hữu tập thể là nền tảng.
+Nhà nước xây dựng nền kinh tế độc lập, tự chủ trên cơ sở phát huy nội lực, chủ động hội nhập kinh tế quốc tế; thực hiện công nghiệp hoá, hiện đại hoá đất nước.
+Nhà nước thực hiện nhất quán chính sách phát triển nền kinh tế thị trường định hướng xã hội chủ nghĩa. Cơ cấu kinh tế nhiều thành phần với các hình thức tổ chức sản xuất, kinh doanh đa dạng dựa trên chế độ sở hữu toàn dân, sở hữu tập thể, sở hữu tư nhân, trong đó sở hữu toàn dân và sở hữu tập thể là nền tảng.
 
 #### Điều 16
-Mục đích chính sách kinh tế của Nhà nước là làm cho dân giàu nước mạnh, đáp ứng ngày càng tốt hơn nhu cầu vật chất và tinh thần của nhân dân trên cơ sở giải phóng mọi năng lực sản xuất, phát huy mọi tiềm năng của các thành phần kinh tế: kinh tế quốc doanh, kinh tế tập thể, kinh tế cá thể, kinh tế tư bản tư nhân và kinh tế tư bản Nhà nước dưới nhiều hình thức, thúc đẩy xây dựng cơ sở vật chất - kỹ thuật, mở rộng hợp tác kinh tế, khoa học, kỹ thuật và giao lưu với thị trường thế giới.
+Mục đích chính sách kinh tế của Nhà nước là làm cho dân giàu nước mạnh, đáp ứng ngày càng tốt hơn nhu cầu vật chất và tinh thần của nhân dân trên cơ sở phát huy mọi năng lực sản xuất, mọi tiềm năng của các thành phần kinh tế gồm kinh tế Nhà nước, kinh tế tập thể, kinh tế cá thể, tiểu chủ, kinh tế tư bản tư nhân, kinh tế tư bản Nhà nước và kinh tế có vốn đầu tư nước ngoài dưới nhiều hình thức, thúc đẩy xây dựng cơ sở vật chất - kỹ thuật, mở rộng hợp tác kinh tế, khoa học, kỹ thuật và giao lưu với thị trường thế giới.
+
+Các thành phần kinh tế đều là bộ phận cấu thành quan trọng của nền kinh tế thị trường định hướng xã hội chủ nghĩa. Tổ chức, cá nhân thuộc các thành phần kinh tế được sản xuất, kinh doanh trong những ngành, nghề mà pháp luật không cấm; cùng phát triển lâu dài, hợp tác, bình đẳng và cạnh tranh theo pháp luật.
+
+Nhà nước thúc đẩy sự hình thành, phát triển và từng bước hoàn thiện các loại thị trường theo định hướng xã hội chủ nghĩa.
 
 #### Điều 17
 Đất đai, rừng núi, sông hồ, nguồn nước, tài nguyên trong lòng đất, nguồn lợi ở vùng biển, thềm lục địa và vùng trời, phần vốn và tài sản do Nhà nước đầu tư vào các xí nghiệp, công trình thuộc các ngành và lĩnh vực kinh tế, văn hoá, xã hội, khoa học, kỹ thuật, ngoại giao, quốc phòng, an ninh cùng các tài sản khác mà pháp luật quy định là của Nhà nước, đều thuộc sở hữu toàn dân.
 
 #### Điều 18
 Nhà nước thống nhất quản lý toàn bộ đất đai theo quy hoạch và pháp luật, bảo đảm sử dụng đúng mục đích và có hiệu quả.
-
 Nhà nước giao đất cho các tổ chức và cá nhân sử dụng ổn định lâu dài.
 
 Tổ chức và cá nhân có trách nhiệm bảo vệ, bồi bổ, khai thác hợp lý, sử dụng tiết kiệm đất, được chuyển quyền sử dụng đất được Nhà nước giao theo quy định của pháp luật.
 
 #### Điều 19
-Kinh tế quốc doanh được củng cố và phát triển, nhất là trong những ngành và lĩnh vực then chốt, giữ vai trò chủ đạo trong nền kinh tế quốc dân.
-
-Cơ sở kinh tế quốc doanh được quyền tự chủ trong sản xuất, kinh doanh, bảo đảm sản xuất, kinh doanh có hiệu quả.
+Kinh tế Nhà nước được củng cố và phát triển, nhất là trong các ngành và lĩnh vực then chốt, giữ vai trò chủ đạo, cùng với kinh tế tập thể ngày càng trở thành nền tảng vững chắc của nền kinh tế quốc dân.
 
 #### Điều 20
 Kinh tế tập thể do công dân góp vốn, góp sức hợp tác sản xuất, kinh doanh được tổ chức dưới nhiều hình thức trên nguyên tắc tự nguyện, dân chủ và cùng có lợi.
@@ -104,7 +110,7 @@ Kinh tế tập thể do công dân góp vốn, góp sức hợp tác sản xu�
 Nhà nước tạo điều kiện để củng cố và mở rộng các hợp tác xã hoạt động có hiệu quả.
 
 #### Điều 21
-Kinh tế cá thể, kinh tế tư bản tư nhân được chọn hình thức tổ chức sản xuất, kinh doanh, được thành lập doanh nghiệp không bị hạn chế về quy mô hoạt động trong những ngành, nghề có lợi cho quốc kế dân sinh.
+Kinh tế cá thể, tiểu chủ, kinh tế tư bản tư nhân được chọn hình thức tổ chức sản xuất, kinh doanh, được thành lập doanh nghiệp, không bị hạn chế về quy mô hoạt động trong những ngành, nghề có lợi cho quốc kế dân sinh.
 
 Kinh tế gia đình được khuyến khích phát triển.
 
@@ -126,7 +132,7 @@ Nhà nước thống nhất quản lý và mở rộng hoạt động kinh tế 
 #### Điều 25
 Nhà nước khuyến khích các tổ chức, cá nhân nước ngoài đầu tư vốn, công nghệ vào Việt Nam phù hợp với pháp luật Việt Nam, pháp luật và thông lệ quốc tế; bảo đảm quyền sở hữu hợp pháp đối với vốn, tài sản và các quyền lợi khác của các tổ chức, cá nhân nước ngoài. Doanh nghiệp có vốn đầu tư nước ngoài không bị quốc hữu hoá.
 
-Nhà nước tạo điều kiện thuận lợi cho người Việt Nam định cư ở nước ngoài đầu tư về nước.
+Nhà nước khuyến khích và tạo điều kiện thuận lợi để người Việt Nam định cư ở nước ngoài đầu tư về nước.
 
 #### Điều 26
 Nhà nước thống nhất quản lý nền kinh tế quốc dân bằng pháp luật, kế hoạch, chính sách; phân công trách nhiệm và phân cấp quản lý Nhà nước giữa các ngành, các cấp; kết hợp lợi ích của cá nhân, của tập thể với lợi ích của Nhà nước.
@@ -146,7 +152,7 @@ Nghiêm cấm mọi hành động làm suy kiệt tài nguyên và huỷ hoại 
 
 ## Chương III: VĂN HÓA, GIÁO DỤC, KHOA HỌC, CÔNG NGHỆ
 #### Điều 30
-Nhà nước và xã hội bảo tồn, phát triển nền văn hoá Việt Nam: dân tộc, hiện đại, nhân văn; kế thừa và phát huy những giá trị của nền văn hiến các dân tộc Việt Nam, tư tưởng, đạo đức, phong cách Hồ Chí Minh; tiếp thu tinh hoa văn hoá nhân loại; phát huy mọi tài năng sáng tạo trong nhân dân.
+Nhà nước và xã hội bảo tồn, phát triển nền văn hoá Việt Nam tiên tiến, đậm đà bản sắc dân tộc; kế thừa và phát huy những giá trị của nền văn hiến các dân tộc Việt Nam, tư tưởng, đạo đức, phong cách Hồ Chí Minh; tiếp thu tinh hoa văn hoá nhân loại; phát huy mọi tài năng sáng tạo trong nhân dân.
 
 Nhà nước thống nhất quản lý sự nghiệp văn hoá. Nghiêm cấm truyền bá tư tưởng và văn hoá phản động, đồi trụy; bài trừ mê tín, hủ tục.
 
@@ -169,16 +175,16 @@ Nhà nước và xã hội bảo tồn, phát triển các di sản văn hoá d�
 Nghiêm cấm các hành động xâm phạm đến các di tích lịch sử, cách mạng, các công trình nghệ thuật và danh lam, thắng cảnh.
 
 #### Điều 35
-Giáo dục và đào tạo là quốc sách hàng đầu.
+Phát triển giáo dục là quốc sách hàng đầu.
 
-Nhà nước phát triển giáo dục nhằm nâng cao dân trí, đào tạo nhân lực, bồi dưỡng nhân tài.
+Nhà nước và xã hội phát triển giáo dục nhằm nâng cao dân trí, đào tạo nhân lực, bồi dưỡng nhân tài.
 
-Mục tiêu của giáo dục là hình thành và bồi dưỡng nhân cách, phẩm chất và năng lực của công dân; đào tạo những người lao động có nghề, năng động và sáng tạo, có niềm tự hào dân tộc, có đạo đức, có ý chí vươn lên góp phần làm cho dân giầu nước mạnh, đáp ứng yêu cầu của sự nghiệp xây dựng và bảo vệ Tổ quốc.
+Mục tiêu của giáo dục là hình thành và bồi dưỡng nhân cách, phẩm chất và năng lực của công dân; đào tạo những người lao động có nghề, năng động và sáng tạo, có niềm tự hào dân tộc, có đạo đức, có ý chí vươn lên góp phần làm cho dân giàu nước mạnh, đáp ứng yêu cầu của sự nghiệp xây dựng và bảo vệ Tổ quốc.
 
 #### Điều 36
 Nhà nước thống nhất quản lý hệ thống giáo dục quốc dân về mục tiêu, chương trình, nội dung, kế hoạch giáo dục, tiêu chuẩn giáo viên, quy chế thi cử và hệ thống văn bằng.
 
-Nhà nước phát triển cân đối hệ thống giáo dục: giáo dục mầm non, giáo dục phổ thông, giáo dục nghề nghiêp, giáo dục đại học và sau đại học, phổ cập giáo dục tiểu học, xoá nạn mù chữ; phát triển các hình thức trường quốc lập, dân lập và các hình thức giáo dục khác.
+Nhà nước phát triển cân đối hệ thống giáo dục gồm giáo dục mầm non, giáo dục phổ thông, giáo dục nghề nghiệp, giáo dục đại học và sau đại học; thực hiện phổ cập giáo dục trung học cơ sở; phát triển các hình thức trường quốc lập, dân lập và các hình thức giáo dục khác.
 
 Nhà nước ưu tiên đầu tư cho giáo dục, khuyến khích các nguồn đầu tư khác.
 
@@ -187,9 +193,10 @@ Nhà nước thực hiện chính sách ưu tiên bảo đảm phát triển gi�
 Các đoàn thể nhân dân, trước hết là Đoàn thanh niên cộng sản Hồ Chí Minh, các tổ chức xã hội, các tổ chức kinh tế, gia đình cùng nhà trường có trách nhiệm giáo dục thanh niên, thiếu niên và nhi đồng.
 
 #### Điều 37
+Phát triển khoa học và công nghệ là quốc sách hàng đầu.
 Khoa học và công nghệ giữ vai trò then chốt trong sự nghiệp phát triển kinh tế - xã hội của đất nước.
 
-Nhà nước xây dựng và thực hiện chính sách khoa học, công nghệ quốc gia; xây dựng nền khoa học, công nghệ tiên tiến; phát triển đồng bộ các ngành khoa học nhằm xây dựng luận cứ khoa học cho việc định ra đường lối, chính sách và pháp luật, đổi mới công nghệ, phát triển lực lượng sản xuất, nâng cao trình độ quản lý, bảo đảm chất lượng và tốc độ phát triển của nền kinh tế; góp phần bảo đảm quốc phòng, an ninh quốc gia.
+Nhà nước xây dựng và thực hiện chính sách khoa học, công nghệ quốc gia; xây dựng nền khoa học và công nghệ tiên tiến; phát triển đồng bộ các ngành khoa học, nghiên cứu, tiếp thu các thành tựu khoa học và công nghệ của thế giới nhằm xây dựng luận cứ khoa học cho việc định ra đường lối, chính sách và pháp luật, đổi mới công nghệ, phát triển lực lượng sản xuất, nâng cao trình độ quản lý, bảo đảm chất lượng và tốc độ phát triển của nền kinh tế; góp phần bảo đảm quốc phòng, an ninh quốc gia.
 
 #### Điều 38
 Nhà nước đầu tư và khuyến khích tài trợ cho khoa học bằng nhiều nguồn vốn khác nhau, ưu tiên cho những hướng khoa học, công nghệ mũi nhọn; chăm lo đào tạo và sử dụng hợp lý đội ngũ cán bộ khoa học, kỹ thuật nhất là những người có trình độ cao, công nhân lành nghề và nghệ nhân; tạo điều kiện để các nhà khoa học sáng tạo và cống hiến; phát triển nhiều hình thức tổ chức, hoạt động nghiên cứu khoa học, gắn nghiên cứu khoa học với nhu cầu phát triển kinh tế - xã hội, kết hợp chặt chẽ giữa nghiên cứu khoa học, đào tạo với sản xuất, kinh doanh.
@@ -287,7 +294,7 @@ Học sinh có năng khiếu được Nhà nước và xã hội tạo điều k
 
 Nhà nước có chính sách học phí, học bổng.
 
-Nhà nước và xã hội tạo điều kiện cho trẻ em tàn tật được học văn hoá và học nghề phù hợp.
+Nhà nước và xã hội tạo điều kiện cho trẻ em khuyết tật, trẻ em có hoàn cảnh đặc biệt khó khăn khác được học văn hoá và học nghề phù hợp.
 
 #### Điều 60
 Công dân có quyền nghiên cứu khoa học, kỹ thuật, phát minh, sáng chế, sáng kiến cải tiến kỹ thuật, hợp lý hoá sản xuất, sáng tác, phê bình văn học, nghệ thuật và tham gia các hoạt động văn hoá khác. Nhà nước bảo hộ quyền tác giả, quyền sở hữu công nghiệp.
@@ -352,10 +359,9 @@ Không ai được xâm phạm tự do tín ngưỡng, tôn giáo hoặc lợi d
 
 #### Điều 71
 Công dân có quyền bất khả xâm phạm về thân thể, được pháp luật bảo hộ về tính mạng, sức khoẻ, danh dự và nhân phẩm.
-
 Không ai bị bắt, nếu không có quyết định của Toà án nhân dân, quyết định hoặc phê chuẩn của Viện kiểm sát nhân dân, trừ trường hợp phạm tội quả tang. Việc bắt và giam giữ người phải đúng pháp luật.
 
-Nghiêm cấm mọi hình thức truy bức, nhục hình, xúc phạm danh dự, nhân phẩm của công dân.
+#### Nghiêm cấm mọi hình thức truy bức, nhục hình, xúc phạm danh dự, nhân phẩm của công dân.
 
 #### Điều 72
 Không ai bị coi là có tội và phải chịu hình phạt khi chưa có bản án kết tội của Toà án đã có hiệu lực pháp luật.
@@ -381,9 +387,9 @@ Mọi hành vi xâm phạm lợi ích của Nhà nước, quyền và lợi ích
 Nghiêm cấm việc trả thù người khiếu nại, tố cáo hoặc lợi dụng quyền khiếu nại, tố cáo để vu khống, vu cáo làm hại người khác.
 
 #### Điều 75
-Nhà nước bảo hộ quyền lợi chính đáng của người Việt Nam định cư ở nước ngoài.
+Người Việt Nam định cư ở nước ngoài là bộ phận của cộng đồng dân tộc Việt Nam. Nhà nước bảo hộ quyền lợi chính đáng của người Việt Nam định cư ở nước ngoài.
 
-Nhà nước tạo điều kiện để người Việt Nam định cư ở nước ngoài giữ quan hệ gắn bó với gia đình và quê hương, góp phần xây dựng quê hương, đất nước.
+Nhà nước khuyến khích và tạo điều kiện để người Việt Nam định cư ở nước ngoài giữ gìn bản sắc văn hoá dân tộc Việt Nam, giữ quan hệ gắn bó với gia đình và quê hương, góp phần xây dựng quê hương, đất nước.
 
 #### Điều 76
 Công dân phải trung thành với Tổ quốc.
@@ -426,16 +432,16 @@ Quốc hội có những nhiệm vụ và quyền hạn sau đây:
 1. Làm Hiến pháp và sửa đổi Hiến pháp; làm luật và sửa đổi luật; quyết định chương trình xây dựng luật, pháp lệnh;
 2. Thực hiện quyền giám sát tối cao việc tuân theo Hiến pháp, luật và nghị quyết của Quốc hội; xét báo cáo hoạt động của Chủ tịch nước, Uỷ ban thường vụ Quốc hội, Chính phủ, Toà án nhân dân tối cao, Viện kiểm sát nhân dân tối cao;
 3. Quyết định kế hoạch phát triển kinh tế - xã hội của đất nước;
-4. Quyết định chính sách tài chính, tiền tệ quốc gia; quyết định dự toán ngân sách Nhà nước và phân bổ ngân sách Nhà nước, phê chuẩn quyết toán ngân sách Nhà nước; quy định, sửa đổi hoặc bãi bỏ các thứ thuế;
-5. Quyết định chính sách dân tộc của Nhà nước;
+4. Quyết định chính sách tài chính, tiền tệ quốc gia; quyết định dự toán ngân sách Nhà nước và phân bổ ngân sách trung ương, phê chuẩn quyết toán ngân sách Nhà nước; quy định, sửa đổi hoặc bãi bỏ các thứ thuế;
+5. Quyết định chính sách dân tộc, chính sách tôn giáo của Nhà nước;
 6. Quy định tổ chức và hoạt động của Quốc hội, Chủ tịch nước, Chính phủ, Toà án nhân dân, Viện kiểm sát nhân dân và chính quyền địa phương;
-7. Bầu, miễn nhiệm, bãi nhiệm Chủ tịch nước, Phó Chủ tịch nước, Chủ tịch Quốc hội, các Phó Chủ tịch Quốc hội và các ủy viên Uỷ ban thường vụ Quốc hội, Thủ tướng Chính phủ, Chánh án Toà án nhân dân tối cao, Viện trưởng Viện kiểm sát nhân dân tối cao; phê chuẩn đề nghị của Chủ tịch nước về việc thành lập Hội đồng quốc phòng và an ninh; phê chuẩn đề nghị của Thủ tướng Chính phủ về việc bổ nhiệm, miễn nhiệm, cách chức Phó Thủ tướng, Bộ trưởng và các thành viên khác của Chính phủ;
+7. Bầu, miễn nhiệm, bãi nhiệm Chủ tịch nước, Phó Chủ tịch nước, Chủ tịch Quốc hội, các Phó Chủ tịch Quốc hội và các ủy viên Uỷ ban thường vụ Quốc hội, Thủ tướng Chính phủ, Chánh án Toà án nhân dân tối cao, Viện trưởng Viện kiểm sát nhân dân tối cao; phê chuẩn đề nghị của Thủ tướng Chính phủ về việc bổ nhiệm, miễn nhiệm, cách chức Phó Thủ tướng, Bộ trưởng và các thành viên khác của Chính phủ; phê chuẩn đề nghị của Chủ tịch nước về danh sách thành viên Hội đồng quốc phòng và an ninh; bỏ phiếu tín nhiệm đối với những người giữ các chức vụ do Quốc hội bầu hoặc phê chuẩn;
 8. Quyết định thành lập, bãi bỏ các Bộ và các cơ quan ngang Bộ của Chính phủ; thành lập mới, nhập, chia, điều chỉnh địa giới tỉnh, thành phố trực thuộc trung ương; thành lập hoặc giải thể đơn vị hành chính - kinh tế đặc biệt;
 9. Bãi bỏ các văn bản của Chủ tịch nước, Uỷ ban thường vụ Quốc hội, Chính phủ, Thủ tướng Chính phủ, Toà án nhân dân tối cao và Viện kiểm sát nhân dân tối cao trái với Hiến pháp, luật và nghị quyết của Quốc hội;
 10. Quyết định đại xá;
 11. Quy định hàm, cấp trong các lực lượng vũ trang nhân dân, hàm, cấp ngoại giao và những hàm, cấp Nhà nước khác; quy định huân chương, huy chương và danh hiệu vinh dự Nhà nước;
 12. Quyết định vấn đề chiến tranh và hoà bình; quy định về tình trạng khẩn cấp, các biện pháp đặc biệt khác bảo đảm quốc phòng và an ninh quốc gia;
-13. Quyết định chính sách cơ bản về đối ngoại; phê chuẩn hoặc bãi bỏ các điều ước quốc tế đã ký kết hoặc tham gia theo đề nghị của Chủ tịch nước;
+13. Quyết định chính sách cơ bản về đối ngoại; phê chuẩn hoặc bãi bỏ điều ước quốc tế do Chủ tịch nước trực tiếp ký; phê chuẩn hoặc bãi bỏ các điều ước quốc tế khác đã được ký kết hoặc gia nhập theo đề nghị của Chủ tịch nước;
 14. Quyết định việc trưng cầu ý dân.
 
 #### Điều 85
@@ -490,11 +496,10 @@ Uỷ ban thường vụ Quốc hội có những nhiệm vụ và quyền hạn 
 5. Giám sát việc thi hành Hiến pháp, luật, nghị quyết của Quốc hội, pháp lệnh, nghị quyết của Uỷ ban thường vụ Quốc hội; giám sát hoạt động của Chính phủ, Toà án nhân dân tối cao, Viện kiểm sát nhân dân tối cao; đình chỉ việc thi hành các văn bản của Chính phủ, Thủ tướng Chính phủ, Toà án nhân dân tối cao, Viện kiểm sát nhân dân tối cao trái với Hiến pháp, luật, nghị quyết của Quốc hội và trình Quốc hội quyết định việc huỷ bỏ các văn bản đó; huỷ bỏ các văn bản của Chính phủ, Thủ tướng Chính phủ, Toà án nhân dân tối cao, Viện kiểm sát nhân dân tối cao trái với pháp lệnh, nghị quyết của Uỷ ban thường vụ Quốc hội;
 6. Giám sát và hướng dẫn hoạt động của Hội đồng nhân dân; bãi bỏ các nghị quyết sai trái của Hội đồng nhân dân tỉnh, thành phố trực thuộc trung ương; giải tán Hội đồng nhân dân tỉnh, thành phố trực thuộc trung ương trong trường hợp Hội đồng nhân dân đó làm thiệt hại nghiêm trọng đến lợi ích của nhân dân;
 7. Chỉ đạo, điều hoà, phối hợp hoạt động của Hội đồng dân tộc và các Uỷ ban của Quốc hội; hướng dẫn và bảo đảm điều kiện hoạt động của các đại biểu Quốc hội;
-8. Trong thời gian Quốc hội không họp, phê chuẩn đề nghị của Thủ tướng Chính phủ về việc bổ nhiệm, miễn nhiệm, cách chức Phó Thủ tướng, Bộ trưởng, các thành viên khác của Chính phủ và báo cáo với Quốc hội tại kỳ họp gần nhất của Quốc hội;
-9. Trong thời gian Quốc hội không họp, quyết định việc tuyên bố tình trạng chiến tranh khi nước nhà bị xâm lược và trình Quốc hội phê chuẩn quyết định đó tại kỳ họp gần nhất của Quốc hội;
-10. Quyết định tổng động viên hoặc động viên cục bộ; ban bố tình trạng khẩn cấp trong cả nước hoặc ở từng địa phương;
-11. Thực hiện quan hệ đối ngoại của Quốc hội;
-12. Tổ chức trưng cầu ý dân theo quyết định của Quốc hội.
+8. Trong trường hợp Quốc hội không thể họp được, quyết định việc tuyên bố tình trạng chiến tranh khi nước nhà bị xâm lược và báo cáo Quốc hội xem xét, quyết định tại kỳ họp gần nhất của Quốc hội;
+9. Quyết định tổng động viên hoặc động viên cục bộ; ban bố tình trạng khẩn cấp trong cả nước hoặc ở từng địa phương;
+10. Thực hiện quan hệ đối ngoại của Quốc hội;
+11. Tổ chức trưng cầu ý dân theo quyết định của Quốc hội.
 
 #### Điều 92
 Chủ tịch Quốc hội chủ toạ các phiên họp của Quốc hội; ký chứng thực luật, nghị quyết của Quốc hội; lãnh đạo công tác của Uỷ ban thường vụ Quốc hội; tổ chức việc thực hiện quan hệ đối ngoại của Quốc hội; giữ quan hệ với các đại biểu Quốc hội.
@@ -572,13 +577,13 @@ Chủ tịch nước có những nhiệm vụ và quyền hạn sau đây:
 1. Công bố Hiến pháp, luật, pháp lệnh;
 2. Thống lĩnh các lực lượng vũ trang nhân dân và giữ chức vụ Chủ tịch Hội đồng quốc phòng và an ninh;
 3. Đề nghị Quốc hội bầu, miễn nhiệm, bãi nhiệm Phó Chủ tịch nước, Thủ tướng Chính phủ, Chánh án Toà án nhân dân tối cao, Viện trưởng Viện kiểm sát nhân dân tối cao;
-4. Căn cứ vào nghị quyết của Quốc hội hoặc của Uỷ ban thường vụ Quốc hội, bổ nhiệm, miễn nhiệm, cách chức Phó Thủ tướng, Bộ trưởng và các thành viên khác của Chính phủ;
+4. Căn cứ vào nghị quyết của Quốc hội bổ nhiệm, miễn nhiệm, cách chức Phó Thủ tướng, Bộ trưởng và các thành viên khác của Chính phủ;
 5. Căn cứ vào nghị quyết của Quốc hội hoặc của Uỷ ban thường vụ Quốc hội, công bố quyết định tuyên bố tình trạng chiến tranh, công bố quyết định đại xá;
-6. Căn cứ vào nghị quyết của Uỷ ban thường vụ Quốc hội, ra lệnh tổng động viên hoặc động viên cục bộ; ban bố tình trạng khẩn cấp trong cả nước hoặc ở từng địa phương;
-7. Đề nghị Uỷ ban thường vụ Quốc hội xem xét lại pháp lệnh, nghị quyết của Uỷ ban thường vụ Quốc hội về các vấn đề quy định tại điểm 8 và điểm 9, Điều 91 trong thời hạn mười ngày kể từ ngày pháp lệnh hoặc nghị quyết được thông qua; nếu pháp lệnh, nghị quyết đó vẫn được Uỷ ban thường vụ Quốc hội biểu quyết tán thành mà Chủ tịch nước vẫn không nhất trí, thì Chủ tịch nước trình Quốc hội quyết định tại kỳ họp gần nhất;
+6. Căn cứ vào nghị quyết của Uỷ ban thường vụ Quốc hội, ra lệnh tổng động viên hoặc động viên cục bộ, công bố tình trạng khẩn cấp; trong trường hợp Uỷ ban thường vụ Quốc hội không thể họp được, ban bố tình trạng khẩn cấp trong cả nước hoặc ở từng địa phương;
+7. Đề nghị Uỷ ban thường vụ Quốc hội xem xét lại pháp lệnh trong thời hạn mười ngày kể từ ngày pháp lệnh được thông qua; nếu pháp lệnh đó vẫn được Uỷ ban thường vụ Quốc hội biểu quyết tán thành mà Chủ tịch nước vẫn không nhất trí, thì Chủ tịch nước trình Quốc hội quyết định tại kỳ họp gần nhất;
 8. Bổ nhiệm, miễn nhiệm, cách chức Phó Chánh án, Thẩm phán Toà án nhân dân tối cao, Phó Viện trưởng, Kiểm sát viên Viện kiểm sát nhân dân tối cao;
-9. Quyết định phong hàm, cấp sĩ quan cấp cao trong các lực lượng vũ trang nhân dân, hàm, cấp ngoại giao và những hàm cấp Nhà nước khác; quyết định tặng thưởng huân chương, huy chương và danh hiệu vinh dự Nhà nước;
-10. Cử, triệu hồi đại sứ đặc mệnh toàn quyền của Việt Nam; tiếp nhận đại sứ đặc mệnh toàn quyền của nước ngoài; tiến hành đàm phán, ký kết điều ước quốc tế nhân danh Nhà nước Cộng hoà xã hội chủ nghĩa Việt Nam với người đứng đầu Nhà nước khác; quyết định phê chuẩn hoặc tham gia điều ước quốc tế, trừ trường hợp cần trình Quốc hội quyết định;
+9. Quyết định phong hàm, cấp sĩ quan cấp cao trong các lực lượng vũ trang nhân dân, hàm, cấp đại sứ, những hàm, cấp Nhà nước trong các lĩnh vực khác; quyết định tặng thưởng huân chương, huy chương, giải thưởng Nhà nước và danh hiệu vinh dự Nhà nước;
+10. Cử, triệu hồi đại sứ đặc mệnh toàn quyền của Việt Nam; tiếp nhận đại sứ đặc mệnh toàn quyền của nước ngoài; tiến hành đàm phán, ký kết điều ước quốc tế nhân danh Nhà nước Cộng hoà xã hội chủ nghĩa Việt Nam với người đứng đầu Nhà nước khác; trình Quốc hội phê chuẩn điều ước quốc tế đã trực tiếp ký; quyết định phê chuẩn hoặc gia nhập điều ước quốc tế, trừ trường hợp cần trình Quốc hội quyết định;
 11. Quyết định cho nhập quốc tịch Việt Nam, cho thôi quốc tịch Việt Nam hoặc tước quốc tịch Việt Nam;
 12. Quyết định đặc xá.
 
@@ -639,7 +644,7 @@ Chính phủ có những nhiệm vụ và quyền hạn sau đây:
 5. Thi hành những biện pháp bảo vệ các quyền và lợi ích hợp pháp của công dân, tạo điều kiện cho công dân sử dụng quyền và làm tròn nghĩa vụ của mình, bảo vệ tài sản, lợi ích của Nhà nước và của xã hội; bảo vệ môi trường;
 6. Củng cố và tăng cường nền quốc phòng toàn dân, an ninh nhân dân; bảo đảm an ninh quốc gia và trật tự, an toàn xã hội; xây dựng các lực lượng vũ trang nhân dân; thi hành lệnh động viên, lệnh ban bố tình trạng khẩn cấp và mọi biện pháp cần thiết khác để bảo vệ đất nước;
 7. Tổ chức và lãnh đạo công tác kiểm kê, thống kê của Nhà nước; công tác thanh tra và kiểm tra Nhà nước, chống quan liêu, tham nhũng trong bộ máy Nhà nước; công tác giải quyết khiếu nại, tố cáo của công dân;
-8. Thống nhất quản lý công tác đối ngoại của Nhà nước; ký kết, tham gia, phê duyệt điều ước quốc tế nhân danh Chính phủ; chỉ đạo việc thực hiện các điều ước quốc tế mà Cộng hoà xã hội chủ nghĩa Việt Nam ký kết hoặc tham gia; bảo vệ lợi ích của Nhà nước, lợi ích chính đáng của tổ chức và công dân Việt Nam ở nước ngoài;
+8. Thống nhất quản lý công tác đối ngoại; đàm phán, ký kết điều ước quốc tế nhân danh Nhà nước Cộng hoà xã hội chủ nghĩa Việt Nam, trừ trường hợp quy định tại điểm 10 Điều 103; đàm phán, ký, phê duyệt, gia nhập điều ước quốc tế nhân danh Chính phủ; chỉ đạo việc thực hiện các điều ước quốc tế mà Cộng hoà xã hội chủ nghĩa Việt Nam ký kết hoặc gia nhập; bảo vệ lợi ích của Nhà nước, lợi ích chính đáng của tổ chức và công dân Việt Nam ở nước ngoài;
 9. Thực hiện chính sách xã hội, chính sách dân tộc, chính sách tôn giáo;
 10. Quyết định việc điều chỉnh địa giới các đơn vị hành chính dưới cấp tỉnh, thành phố trực thuộc trung ương;
 11. Phối hợp với Mặt trận Tổ quốc Việt Nam, các đoàn thể nhân dân trong khi thực hiện nhiệm vụ, quyền hạn của mình; tạo điều kiện để các tổ chức đó hoạt động có hiệu quả.
@@ -651,7 +656,7 @@ Nhiệm kỳ của Chính phủ theo nhiệm kỳ của Quốc hội. Khi Quốc
 Thủ tướng Chính phủ có những nhiệm vụ và quyền hạn sau đây:
 
 1. Lãnh đạo công tác của Chính phủ, các thành viên Chính phủ, Uỷ ban nhân dân các cấp; chủ toạ các phiên họp của Chính phủ;
-2. Đề nghị Quốc hội thành lập hoặc bãi bỏ các Bộ và các cơ quan ngang Bộ; trình Quốc hội và trong thời gian Quốc hội không họp, trình Uỷ ban thường vụ Quốc hội phê chuẩn đề nghị về việc bổ nhiệm, miễn nhiệm, cách chức Phó Thủ tướng, Bộ trưởng, các thành viên khác của Chính phủ;
+2. Đề nghị Quốc hội thành lập hoặc bãi bỏ các bộ và các cơ quan ngang bộ; trình Quốc hội phê chuẩn đề nghị về việc bổ nhiệm, miễn nhiệm, cách chức Phó Thủ tướng, Bộ trưởng, các thành viên khác của Chính phủ;
 3. Bổ nhiệm, miễn nhiệm, cách chức các Thứ trưởng và chức vụ tương đương; phê chuẩn việc bầu cử; miễn nhiệm, điều động, cách chức Chủ tịch, các Phó Chủ tịch Uỷ ban nhân dân tỉnh, thành phố trực thuộc trung ương;
 4. Đình chỉ việc thi hành hoặc bãi bỏ những quyết định, chỉ thị, thông tư của Bộ trưởng, các thành viên khác của Chính phủ, quyết định, chỉ thị của Uỷ ban nhân dân và Chủ tịch Uỷ ban nhân dân tỉnh, thành phố trực thuộc trung ương trái với Hiến pháp, luật và các văn bản của các cơ quan Nhà nước cấp trên;
 5. Đình chỉ việc thi hành những nghị quyết của Hội đồng nhân dân tỉnh, thành phố trực thuộc trung ương trái với Hiến pháp, luật và các văn bản của các cơ quan Nhà nước cấp trên, đồng thời đề nghị Uỷ ban thường vụ Quốc hội bãi bỏ;
@@ -665,12 +670,12 @@ Những vấn đề quan trọng thuộc thẩm quyền của Chính phủ phả
 #### Điều 116
 Bộ trưởng và các thành viên khác của Chính phủ chịu trách nhiệm quản lý Nhà nước về lĩnh vực, ngành mình phụ trách trong phạm vi cả nước, bảo đảm quyền tự chủ trong hoạt động sản xuất, kinh doanh của các cơ sở theo quy định của pháp luật.
 
-Căn cứ vào Hiến pháp, luật và nghị quyết của Quốc hội, pháp lệnh, nghị quyết của Uỷ ban thường vụ Quốc hội, lệnh, quyết định của Chủ tịch nước, các văn bản của Chính phủ và Thủ tướng Chính phủ, Bộ trưởng, các thành viên khác của Chính phủ, Thủ trưởng các cơ quan thuộc Chính phủ ra quyết định, chỉ thị, thông tư và kiểm tra việc thi hành các văn bản đó đối với tất cả các ngành, các địa phương và cơ sở.
+Căn cứ vào Hiến pháp, luật và nghị quyết của Quốc hội, pháp lệnh, nghị quyết của Uỷ ban thường vụ Quốc hội, lệnh, quyết định của Chủ tịch nước, các văn bản của Chính phủ và Thủ tướng Chính phủ, Bộ trưởng, các thành viên khác của Chính phủ ra quyết định, chỉ thị, thông tư và kiểm tra việc thi hành các văn bản đó đối với tất cả các ngành, các địa phương và cơ sở.
 
 #### Điều 117
 Bộ trưởng và các thành viên khác của Chính phủ chịu trách nhiệm trước Thủ tướng Chính phủ, trước Quốc hội về lĩnh vực, ngành mình phụ trách.
 
-## Chương IX: HỘI ĐỒNG NHÂN DÂN VÀ ỦY BAN NHÂN DÂN
+## Chương IX: HỘI ĐỒNG NHÂN DÂN VÀ UỶ BAN NHÂN DÂN
 #### Điều 118
 Các đơn vị hành chính của nước Cộng hoà xã hội chủ nghĩa Việt Nam được phân định như sau:
 
@@ -768,9 +773,9 @@ Các bản án và quyết định của Toà án nhân dân đã có hiệu l�
 
 ### VIỆN KIỂM SÁT NHÂN DÂN
 #### Điều 137
-Viện kiểm sát nhân dân tối cao kiểm sát việc tuân theo pháp luật của các Bộ, các cơ quan ngang Bộ, các cơ quan khác thuộc Chính phủ, các cơ quan chính quyền địa phương, tổ chức kinh tế, tổ chức xã hội, đơn vị vũ trang nhân dân và công dân, thực hành quyền công tố, bảo đảm cho pháp luật được chấp hành nghiêm chỉnh và thống nhất.
+Viện kiểm sát nhân dân tối cao thực hành quyền công tố và kiểm sát các hoạt động tư pháp, góp phần bảo đảm cho pháp luật được chấp hành nghiêm chỉnh và thống nhất.
 
-Các Viện kiểm sát nhân dân địa phương, các Viện kiểm sát quân sự kiểm sát việc tuân theo pháp luật, thực hành quyền công tố trong phạm vi trách nhiệm do luật định.
+Các Viện kiểm sát nhân dân địa phương, các Viện kiểm sát quân sự thực hành quyền công tố và kiểm sát các hoạt động tư pháp trong phạm vi trách nhiệm do luật định.
 
 #### Điều 138
 Viện kiểm sát nhân dân do Viện trưởng lãnh đạo. Viện trưởng Viện kiểm sát nhân dân cấp dưới chịu sự lãnh đạo của Viện trưởng Viện kiểm sát nhân dân cấp trên; Viện trưởng Viện kiểm sát nhân dân các địa phương, Viện trưởng Viện kiểm sát quân sự các cấp chịu sự lãnh đạo thống nhất của Viện trưởng Viện kiểm sát nhân dân tối cao.
@@ -785,7 +790,7 @@ Viện trưởng, các Phó Viện trưởng và Kiểm sát viên Viện kiểm
 Viện trưởng Viện kiểm sát nhân dân tối cao chịu trách nhiệm và báo cáo công tác trước Quốc hội; trong thời gian Quốc hội không họp thì chịu trách nhiệm và báo cáo công tác trước Uỷ ban thường vụ Quốc hội và Chủ tịch nước.
 
 #### Điều 140
-Viện trưởng các Viện kiểm sát nhân dân địa phương chịu trách nhiệm báo cáo trước Hội đồng nhân dân về tình hình thi hành pháp luật ở địa phương và trả lời chất vấn của đại biểu Hội đồng nhân dân.
+Viện trưởng các Viện kiểm sát nhân dân địa phương chịu trách nhiệm báo cáo công tác trước Hội đồng nhân dân và trả lời chất vấn của đại biểu Hội đồng nhân dân.
 
 ## Chương XI: QUỐC KỲ, QUỐC HUY, QUỐC CA, THỦ ĐÔ, NGÀY QUỐC KHÁNH
 #### Điều 141
