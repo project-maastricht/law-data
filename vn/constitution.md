@@ -1,363 +1,568 @@
 # Hiến pháp nước Việt Nam Dân chủ Cộng hòa
 
 ## LỜI NÓI ĐẦU
-Cuộc cách mạng tháng Tám đã giành lại chủ quyền cho đất nước, tự do cho nhân dân và lập ra nền dân chủ cộng hoà.
+Nước Việt Nam ta là một nước thống nhất từ Lạng Sơn đến Cà Mau.
 
-Sau tám mươi năm tranh đấu, dân tộc Việt Nam đã thoát khỏi vòng áp bức của chính sách thực dân, đồng thời đã gạt bỏ chế độ vua quan. Nước nhà đã bước sang một quãng đường mới.
+Dân tộc Việt Nam trải qua mấy nghìn năm lịch sử là một dân tộc lao động cần cù luôn luôn anh dũng đấu tranh xây dựng đất nước và giữ gìn độc lập của Tổ quốc.
 
-Nhiệm vụ của dân tộc ta trong giai đoạn này là bảo toàn lãnh thổ, giành độc lập hoàn toàn và kiến thiết quốc gia trên nền tảng dân chủ.
+Trong hơn tám mươi năm nước ta bị thực dân Pháp đô hộ và năm năm bị phát xít Nhật chiếm đóng, nhân dân Việt Nam đã không ngừng đoàn kết đấu tranh chống ách thống trị của bọn xâm lược nước ngoài để giải phóng đất nước.
 
-Được quốc dân giao cho trách nhiệm thảo bản Hiến pháp đầu tiên của nước Việt Nam Dân chủ Cộng hoà, Quốc hội nhận thấy rằng Hiến pháp Việt Nam phải ghi lấy những thành tích vẻ vang của Cách mạng và phải xây dựng trên những nguyên tắc dưới đây:
+Từ năm 1930, dưới sự lãnh đạo của Đảng cộng sản Đông Dương, ngày nay là Đảng lao động Việt Nam, cách mạng Việt Nam đã tiến lên một giai đoạn mới. Cuộc đấu tranh bền bỉ đầy gian khổ và hy sinh dũng cảm của nhân dân ta chống ách thống trị của đế quốc và phong kiến đã giành được thắng lợi vĩ đại: Cách mạng tháng Tám thành công, nước Việt Nam Dân chủ Cộng hoà thành lập, ngày 2 tháng 9 năm 1945, Chủ tịch Hồ Chí Minh tuyên bố nước Việt Nam độc lập trước quốc dân và toàn thế giới. Lần đầu tiên trong lịch sử, nhân dân Việt Nam đã xây dựng một nước Việt Nam độc lập và dân chủ.
 
-- Đoàn kết toàn dân, không phân biệt giống nòi, gái trai, giai cấp, tôn giáo.
-- Đảm bảo các quyền tự do dân chủ.
-- Thực hiện chính quyền mạnh mẽ và sáng suốt của nhân dân.
+Ngày 6 tháng giêng năm 1946, toàn dân Việt Nam từ Bắc chí Nam đã nhiệt liệt tham gia cuộc tổng tuyển cử đầu tiên bầu ra Quốc hội. Quốc hội đã thông qua Hiến pháp đầu tiên ghi rõ những thắng lợi to lớn của nhân dân ta, nêu cao ý chí của toàn thể dân tộc kiên quyết giữ gìn độc lập và thống nhất của Tổ quốc, bảo vệ tự do và quyền lợi dân chủ của nhân dân.
 
-Với tinh thần đoàn kết, phấn đấu sẵn có của toàn dân, dưới một chính thể dân chủ rộng rãi, nước Việt Nam độc lập và thống nhất tiến bước trên đường vinh quang, hạnh phúc, cùng nhịp với trào lưu tiến bộ của thế giới và ý nguyện hoà bình của nhân loại.
+Nhưng đế quốc Pháp được đế quốc Mỹ giúp sức lại gây chiến tranh xâm lược hòng cướp nước ta và bắt nhân dân ta làm nô lệ một lần nữa. Dưới sự lãnh đạo của Đảng của giai cấp công nhân Việt Nam và Chính phủ nước Việt Nam Dân chủ Cộng hoà, toàn thể nhân dân ta đoàn kết một lòng đứng lên đánh giặc cứu nước. Đồng thời nhân dân ta đã tiến hành giảm tô và cải cách ruộng đất nhằm đánh đổ giai cấp địa chủ, đem lại ruộng đất cho dân cày. Cuộc kháng chiến lâu dài, gian khổ và vô cùng anh dũng của nhân dân Việt Nam, được các nước xã hội chủ nghĩa, các dân tộc bị áp bức và nhân dân yêu chuộng hoà trên thế giới đồng tình và ủng hộ, đã thắng lợi vẻ vang. Với chiến thắng Điện Biên Phủ, nhân dân Việt Nam đã đánh bại đế quốc Pháp và can thiệp Mỹ. Hiệp định Giơ-ne-vơ năm 1954 được ký kết, hoà bình được độc lập lại ở Đông Dương trên cơ sở công nhận độc lập, chủ quyền, thống nhất và lãnh thổ toàn vẹn của nước ta.
 
-## Chương I: CHÍNH THỂ
+Thắng lợi to lớn của nhân dân Việt Nam cũng là thắng lợi chung của phong trào giải phóng các dân tộc bị áp bức, của mặt trận hoà bình thế giới và của phe xã hội chủ nghĩa.
+
+Từ khi hoà bình lập lại, ở miền Bắc được hoàn toàn giải phóng, nhân dân đã hoàn thành cách mạng dân chủ nhân dân. Nhưng miền Nam còn bị đế quốc và phong kiến thống trị, nước nhà tạm thời còn bị chia làm hai miền.
+
+Cách mạng Việt Nam chuyển sang một hình thế mới. Nhân dân ta cần ra sức củng cố miền Bắc, đưa miền Bắc tiến lên chủ nghĩa xã hội và tiếp tục đấu tranh để hoà bình thống nhất nước nhà, hoàn thành nhiệm vụ cách mạng dân tộc dân chủ nhân dân trong cả nước.
+
+Mấy năm qua, nhân dân ta ở miền Bắc đã thu được nhiều thành tích to lớn trong việc khôi phục kinh tế, phát triển văn hoá. Hiện nay, công cuộc cải tạo xã hội chủ nghĩa và xây dựng chủ nghĩa xã hội đang tiến hành thắng lợi.
+
+Trong khi ấy, ở miền Nam, đế quốc Mỹ và bọn tay sai đàn áp dã man phong trào yêu nước của nhân dân ta. Chúng tăng cường binh bị, thực hiện âm mưu biến miền Nam nước ta thành thuộc địa và căn cứ quân sự chuẩn bị chiến tranh của đế quốc Mỹ. Chúng ra sức phá hoại hiệp định Giơ-ne-vơ, phá hoại hoà bình, phá hoại sự nghiệp thống nhất của nước Việt Nam. Nhưng đồng bào miền Nam luôn luôn anh dũng đấu tranh, không chịu khuất phục. Nhân dân cả nước đoàn kết một lòng, dương cao ngọn cờ hoà bình, thống nhất, độc lập, dân chủ, kiên quyết tiến lên giành lấy thắng lợi cuối cùng. Sự nghiệp hoà bình, thống nhất Tổ quốc nhất định sẽ thành công.
+
+Trong giai đoạn mới của cách mạng, Quốc hội ta cần sửa đổi bản Hiến pháp năm 1946 cho thích hợp với tình hình và nhiệm vụ mới.
+
+Hiến pháp mới ghi rõ những thắng lợi cách mạng to lớn đã giành được trong thời gian qua và nêu rõ mục tiêu phấn đấu của nhân dân ta trong giai đoạn mới.
+
+Nhà nước của ta là Nhà nước dân chủ nhân dân, dựa trên nền tảng liên minh công nông, do giai cấp công nhân lãnh đạo. Hiến pháp mới quy định chế độ chính trị, kinh tế và xã hội của nước ta, quan hệ bình đẳng giúp nhau giữa các dân tộc trong nước, bảo đảm đưa miền Bắc nước ta tiến lên chủ nghĩa xã hội, không ngừng nâng cao đời sống vật chất và văn hoá của nhân dân, xây dựng miền Bắc vững mạnh làm cơ sở cho cuộc đấu tranh hoà bình thống nhất nước nhà.
+
+Hiến pháp mới quy định trách nhiệm và quyền hạn của các cơ quan Nhà nước, quyền lợi và nghĩa vụ của công dân, nhằm phát huy sức sáng tạo to lớn của nhân dân ta trong công cuộc xây dựng nước nhà, thống nhất và bảo vệ Tổ quốc.
+
+Hiến pháp mới là một Hiến pháp thực sự dân chủ. Hiến pháp mới là sức mạnh động viên nhân dân cả nước ta phấn khởi tiến lên giành những thắng lợi mới. Nhân dân ta quyết phát huy hơn nữa tinh thần yêu nước, truyền thống đoàn kết, chí khí đấu tranh và nhiệt tình lao động. Nhân dân ta quyết tăng cường hơn nữa sự đoàn kết nhất trí với các nước anh em trong phe xã hội chủ nghĩa đứng đầu là Liên Xô vĩ đại, tăng cường đoàn kết với nhân dân các nước Á - Phi và nhân dân yêu chuộng hoà bình trên thế giới.
+Dưới sự lãnh đạo sáng suốt của Đảng lao động Việt Nam, Chính phủ nước Việt Nam Dân chủ Cộng hoà và Chủ tịch Hồ Chí Minh, toàn dân ta đoàn kết rộng rãi trong Mặt trận dân tộc thống nhất, nhất định sẽ giành được những thắng lợi vẻ vang trong sự nghiệp xây dựng chủ nghĩa xã hội ở miền Bắc và thực hiện thống nhất nước nhà. Nhân dân ta nhất định xây dựng thành công một nước Việt Nam hoà bình, thống nhất, độc lập, dân chủ và giàu mạnh, góp phần xứng đáng vào công cuộc bảo vệ hoà bình ở Đông Nam châu á và thế giới.
+
+## Chương I: NƯỚC Việt Nam Dân chủ Cộng hoà
 #### Điều 1
-Nước Việt Nam là một nước dân chủ cộng hoà.
-
-Tất cả quyền binh trong nước là của toàn thể nhân dân Việt Nam, không phân biệt nòi giống, gái trai, giàu nghèo, giai cấp, tôn giáo.
+Đất nước Việt Nam là một khối Bắc Nam thống nhất không thể chia cắt.
 
 #### Điều 2
-Đất nước Việt Nam là một khối thống nhất Trung Nam Bắc không thể phân chia.
+Nước Việt Nam Dân chủ Cộng hoà, thành lập và củng cố do thắng lợi mà nhân dân Việt Nam đã giành được trong Cách mạng tháng Tám vẻ vang và Kháng chiến anh dũng, là một nước dân chủ nhân dân.
 
 #### Điều 3
-Cờ của nước Việt Nam Dân chủ Cộng hoà nền đỏ, giữa có sao vàng năm cánh.
+Nước Việt Nam Dân chủ Cộng hoà là một nước thống nhất gồm nhiều dân tộc.
 
-Quốc ca là bài Tiến quân ca.
+Các dân tộc sống trên đất nước Việt Nam đều bình đẳng về quyền lợi và nghĩa vụ. Nhà nước có nhiệm vụ giữ gìn và phát triển sự đoàn kết giữa các dân tộc. Mọi hành vi khinh miệt, áp bức, chia rẽ dân tộc đều bị nghiêm cấm.
 
-Thủ đô đặt ở Hà Nội.
+Các dân tộc có quyền duy trì hoặc sửa đổi phong tục tập quán, dùng tiếng nói chữ viết, phát triển văn hoá dân tộc mình.
 
-## Chương II: NGHĨA VỤ VÀ QUYỀN LỢI CÔNG DÂN
-### Mục A: NGHĨA VỤ
-#### Điều 4:
-Mỗi công dân Việt Nam phải:
+Những địa phương có dân tộc thiểu số sống tập trung thì có thể thành lập khu vực tự trị. Khu vực tự trị là bộ phận không thể tách rời được của nước Việt Nam Dân chủ Cộng hoà.
 
-- Bảo vệ Tổ quốc
-- Tôn trọng Hiến pháp
-- Tuân theo pháp luật.
+Nhà nước ra sức giúp đỡ các dân tộc thiểu số mau tiến kịp trình độ kinh tế và văn hoá chung.
+
+#### Điều 4
+Tất cả quyền lực trong nước Việt Nam Dân chủ Cộng hoà đều thuộc về nhân dân. Nhân dân sử dụng quyền lực của mình thống qua Quốc hội và Hội đồng nhân dân các cấp do nhân dân bầu ra và chịu trách nhiệm trước nhân dân.
+
+Quốc hội, Hội đồng nhân dân các cấp và các cơ quan Nhà nước khác đều thực hành nguyên tắc tập trung dân chủ.
 
 #### Điều 5
-Công dân Việt Nam có nghĩa vụ phải đi lính.
+Việc tuyển cử đại biểu Quốc hội và đại biểu Hội đồng nhân dân các cấp đều tiến hành theo nguyên tắc phổ thông, bình đẳng, trực tiếp và bỏ phiếu kín.
 
-### Mục B: QUYỀN LỢI
+Đại biểu Quốc hội và đại biểu Hội đồng nhân dân các cấp có thể bị cử tri bãi miễn trước khi hết nhiệm kỳ nếu tỏ ra không xứng đáng với sự tín nhiệm của nhân dân.
+
 #### Điều 6
-Tất cả công dân Việt Nam đều ngang quyền về mọi phương diện: chính trị, kinh tế, văn hoá.
+Tất cả các cơ quan Nhà nước đều phải dựa vào nhân dân, liên hệ chặt chẽ với nhân dân, lắng nghe ý kiến và chịu sự kiểm soát của nhân dân.
+
+Tất cả các nhân viên cơ quan Nhà nước đều phải trung thành với chế độ dân chủ nhân dân, tuân theo Hiến pháp và pháp luật, hết lòng hết sức phục vụ nhân dân.
 
 #### Điều 7
-Tất cả công dân Việt Nam đều bình đẳng trước pháp luật, đều được tham gia chính quyền và công cuộc kiến quốc tuỳ theo tài năng và đức hạnh của mình.
+Nhà nước nghiêm cấm và trừng trị mọi hành động phản quốc, chống lại chế độ dân chủ nhân dân, chống lại sự nghiệp thống nhất Tổ quốc.
 
 #### Điều 8
-Ngoài sự bình đẳng về quyền lợi, những quốc dân thiểu số được giúp đỡ về mọi phương diện để chóng tiến kịp trình độ chung.
+Lực lượng vũ trang của nước Việt Nam Dân chủ Cộng hoà là của nhân dân, có nhiệm vụ bảo vệ thành quả của cách mạng, bảo vệ độc lập, chủ quyền, lãnh thổ toàn vẹn và an ninh của Tổ quốc, bảo vệ tự do, hạnh phúc và sự nghiệp lao động hoà bình của nhân dân.
 
+## Chương II: CHẾ ĐỘ KINH TẾ VÀ XÃ HỘI
 #### Điều 9
-Đàn bà ngang quyền với đàn ông về mọi phương diện.
+Nước Việt Nam Dân chủ Cộng hoà tiến dần từ chế độ dân chủ nhân dân lên chủ nghĩa xã hội bằng cách phát triển và cải tạo nền kinh tế quốc dân theo chủ nghĩa xã hội, biến nền kinh tế lạc hậu thành một nền kinh tế xã hội chủ nghĩa với công nghiệp và nông nghiệp hiện đại, khoa học và kỹ thuật tiên tiến.
+
+Mục đích cơ bản của chính sách kinh tế của nước Việt Nam Dân chủ Cộng hoà là không ngừng phát triển sức sản xuất nhằm nâng cao đời sống vật chất và văn hoá của nhân dân.
 
 #### Điều 10
-Công dân Việt Nam có quyền:
+Nhà nước lãnh đạo hoạt động kinh tế theo một kế hoạch thống nhất.
 
-- Tự do ngôn luận
-- Tự do xuất bản
-- Tự do tổ chức và hội họp
-- Tự do tín ngưỡng
-- Tự do cư trú, đi lại trong nước và ra nước ngoài.
+Nhà nước dựa vào các cơ quan Nhà nước, tổ chức công đoàn, hợp tác xã và các tổ chức khác của nhân dân lao động để xây dựng và thực hiện kế hoạch kinh tế.
 
 #### Điều 11
-Tư pháp chưa quyết định thì không được bắt bớ và giam cầm người công dân Việt Nam.
-
-Nhà ở và thư tín của công dân Việt Nam không ai được xâm phạm một cách trái pháp luật.
+Ở nước Việt Nam Dân chủ Cộng hoà trong thời kỳ quá độ, các hình thức sở hữu chủ yếu về tư liệu sản xuất hiện nay là: hình thức sở hữu của Nhà nước tức là của toàn dân, hình thức sở hữu của hợp tác xã tức là hình thức sở hữu tập thể của nhân dân lao động, hình thức sở hữu của người lao động riêng lẻ, và hình thức sở hữu của nhà tư sản dân tộc.
 
 #### Điều 12
-Quyền tư hữu tài sản của công dân Việt Nam được bảo đảm..
+Kinh tế quốc doanh thuộc hình thức sở hữu của toàn dân, giữ vai trò lãnh đạo trong nền kinh tế quốc dân và được Nhà nước bảo đảm phát triển ưu tiên.
+
+Các hầm mỏ, sông ngòi, và những rừng cây, đất hoang, tài nguyên khác mà pháp luật quy định là của Nhà nước, đều thuộc sở hữu của toàn dân.
 
 #### Điều 13
-Quyền lợi các giới cần lao trí thức và chân tay được bảo đảm.
+Kinh tế hợp tác xã thuộc hình thức sở hữu tập thể của nhân dân lao động.
+
+Nhà nước đặc biệt khuyến khích, hướng dẫn và giúp đỡ sự phát triển của kinh tế hợp tác xã.
 
 #### Điều 14
-Những người công dân già cả hoặc tàn tật không làm được việc thì được giúp đỡ. Trẻ con được săn sóc về mặt giáo dưỡng.
+Nhà nước chiếu theo pháp luật bảo hộ quyền sở hữu về ruộng đất và các tư liệu sản xuất khác của nông dân.
+
+Nhà nước ra sức hướng dẫn, giúp đỡ nông dân cải tiến kỹ thuật canh tác, phát triển sản xuất, và khuyến khích nông dân tổ chức hợp tác xã sản xuất, hợp tác xã mua bán và hợp tác xã vay mượn theo nguyên tắc tự nguyện.
 
 #### Điều 15
-Nền sơ học cưỡng bách và không học phí. Ở các trường sơ học địa phương, quốc dân thiểu số có quyền học bằng tiếng của mình.
+Nhà Nước chiếu theo pháp luật bảo hộ quyền sở hữu về tư liệu sản xuất của những người làm nghề thủ công và những người lao động riêng lẻ khác.
 
-Học trò nghèo được Chính phủ giúp.
-
-Trường tư được mở tự do và phải dạy theo chương trình Nhà nước.
+Nhà nước ra sức hướng dẫn, giúp đỡ những người làm nghề thủ công và những người lao động riêng lẻ khác cải tiến cách làm ăn và khuyến khích họ tổ chức hợp tác xã sản xuất và hợp tác xã mua bán theo nguyên tắc tự nguyện.
 
 #### Điều 16
-Những người ngoại quốc tranh đấu cho dân chủ và tự do mà phải trốn tránh thì được trú ngụ trên đất Việt Nam.
+Nhà nước chiếu theo pháp luật bảo hộ quyền sở hữu về tư liệu sản xuất và của cải khác của nhà tư sản dân tộc.
 
-### Mục C: BẦU CỬ, BÃI MIỄN VÀ PHÚC QUYẾT
+Nhà nước ra sức hướng dẫn các nhà tư sản dân tộc hoạt động có lợi cho quốc kế dân sinh, góp phần phát triển kinh tế quốc dân phù hợp với kế hoạch kinh tế của Nhà nước. Nhà nước khuyến khích và hướng dẫn các nhà tư sản dân tộc đi theo con đường cải tạo xã hội chủ nghĩa bằng hình thức công tư hợp doanh và những hình thức cải tạo khác.
+
 #### Điều 17
-Chế độ bầu cử là phổ thông đầu phiếu. Bỏ phiếu phải tự do, trực tiếp và kín.
+Nhà nước nghiêm cấm việc lợi dụng tài sản tư hữu để làm rối loạn sinh hoạt kinh tế của xã hội, phá hoại kế hoạch kinh tế Nhà nước.
 
 #### Điều 18
-Tất cả công dân Việt Nam, từ 18 tuổi trở lên, không phân biệt gái trai, đều có quyền bầu cử, trừ những người mất trí và những người mất công quyền.
-
-Người ứng cử phải là người có quyền bầu cử, phải ít ra là 21 tuổi, và phải biết đọc, biết viết chữ quốc ngữ.
-
-Công dân tại ngũ cũng có quyền bầu cử và ứng cử.
+Nhà nước bảo hộ quyền sở hữu của công dân về của cải thu nhập hợp pháp, của cải để dành, nhà ở và các thứ vật dụng riêng khác.
 
 #### Điều 19
-Cách thức tuyển cử sẽ do luật định.
+Nhà nước chiếu theo pháp luật bảo hộ quyền thừa kế tài sản tư hữu của công dân.
 
 #### Điều 20
-Nhân dân có quyền bãi miễn các đại biểu mình đã bầu ra, theo Điều 41 và 61.
+Chỉ khi nào cần thiết vì lợi ích chung, Nhà nước mới trưng mua, hoặc trưng dụng, trưng thu có bồi thường thích đáng các tư liệu sản xuất ở thành thị và nông thôn, trong phạm vi và điều kiện do pháp luật quy định.
 
 #### Điều 21
-Nhân dân có quyền phúc quyết về Hiến pháp và những việc quan hệ đến vận mệnh quốc gia, theo Điều 32 và 70.
+Lao động là cơ sở để phát triển kinh tế quốc dân và nâng cao đời sống vật chất và văn hoá của nhân dân.
+Lao động là nghĩa vụ và vinh dự của người công dân.
 
-## Chương III: NGHỊ VIỆN NHÂN DÂN
+Nhà nước khuyến khích tính sáng tạo và tinh thần tích cực trong lao động của những người lao động chân tay và lao động trí óc.
+
+## Chương III: QUYỀN LỢI VÀ NGHĨA VỤ CƠ BẢN CỦA CÔNG DÂN
 #### Điều 22
-Nghị viện nhân dân là cơ quan có quyền cao nhất của nước Việt Nam Dân chủ Cộng hoà.
+Công dân nước Việt Nam Dân chủ Cộng hoà đều bình đẳng trước pháp luật.
 
 #### Điều 23
-Nghị viện nhân dân giải quyết mọi vấn đề chung cho toàn quốc, đặt ra các pháp luật, biểu quyết ngân sách, chuẩn y các hiệp ước mà Chính phủ ký với nước ngoài.
+Công dân nước Việt Nam Dân chủ Cộng hoà, không phân biệt dân tộc, nòi giống, nam nữ, thành phần xã hội, tôn giáo, tín ngưỡng, tình trạng tài sản, trình độ văn hoá, nghề nghiệp, thời hạn cư trú, từ mưới tám tuổi trở lên đều có quyền bầu cử, từ hai mốt tuổi trở lên đều có quyền ứng cử, trừ những người mất trí và những người bị Toà án hoặc pháp luật tước quyền bầu cử và ứng cử.
+
+Công dân đang ở trong quân đội có quyền bầu cử và ứng cử.
 
 #### Điều 24
-Nghị viện nhân dân do công dân Việt Nam bầu ra. Ba năm bầu một lần.
+Phụ nữ nước Việt Nam Dân chủ Cộng hoà có quyền bình đẳng với nam giới về các mặt sinh hoạt chính trị, kinh tế, văn hoá, xã hội và gia đình.
 
-Cứ 5 vạn dân thì có một nghị viên.
+Cùng việc làm như nhau, phụ nữ được hưởng lương ngang với nam giới. Nhà nước bảo đảm cho phụ nữ công nhân và phụ nữ viên chức được nghỉ trước và sau khi đẻ mà vẫn hưởng nguyên lương.
 
-Số nghị viên của những đô thị lớn và những địa phương có quốc dân thiểu số sẽ do luật định.
+Nhà nước bảo hộ quyền lợi của người mẹ và của trẻ em, bảo đảm phát triển các nhà đỡ đẻ, nhà giữ trẻ và vườn trẻ.
+
+Nhà nước bảo hộ hôn nhân và gia đình.
 
 #### Điều 25
-Nghị Viên không phải chỉ thay mặt cho địa phương mình mà còn thay mặt cho toàn thể nhân dân.
+Công dân nước Việt Nam Dân chủ Cộng hoà có các quyền tự do ngôn luận, báo chí, hội họp, lập hội và biểu tình. Nhà nước bảo đảm những điều kiện vật chất cần thiết để công dân được hưởng các quyền đó.
 
-#### Điều 26
-Nghị viện nhân dân tự thẩm tra xem các nghị viên có được bầu hợp lệ hay không.
+##Điều 26
+Công dân nước Việt Nam Dân chủ Cộng hoà có các quyền tự do tín ngưỡng, theo hoặc không theo một tôn giáo nào.
 
 #### Điều 27
-Nghị viện nhân dân bầu một Nghị trưởng, hai Phó nghị trưởng, 12 uỷ viên chính thức, 3 uỷ viên dự khuyết để lập thành Ban thường vụ.
-
-Nghị trưởng và Phó nghị trưởng kiêm chức Trưởng và Phó trưởng Ban thường vụ.
+Quyền bất khả xâm phạm về thân thể của công dân nước Việt Nam Dân chủ Cộng hoà được bảo đảm. Không ai có thể bị bắt nếu không có sự quyết định của Toà án nhân dân hoặc sự phê chuẩn của Viện kiểm sát nhân dân.
 
 #### Điều 28
-Nghị viện nhân dân mỗi năm họp hai lần do Ban thường vụ triệu tập vào tháng 5 và tháng 11 dương lịch.
+Pháp luật bảo đảm nhà ở của công dân nước Việt Nam Dân chủ Cộng hoà không bị xâm phạm, thư tín được giữ bí mật.
 
-Ban thường vụ có thể triệu tập hội nghị bất thường nếu xét cần.
-
-Ban thường vụ phải triệu tập Nghị viện nếu một phần ba tổng số nghị viên hoặc Chính phủ yêu cầu.
+Công dân nước Việt Nam Dân chủ Cộng hoà có quyền tự do cư trú và đi lại.
 
 #### Điều 29
-Phải có quá nửa tổng số nghị viên tới họp, hội nghị mới được biểu quyết.
-
-Nghị viện quyết nghị theo quá nửa số nghị viên có mặt.
-
-Nhưng muốn tuyên chiến thì phải có hai phần ba số nghị viện có mặt bỏ phiếu thuận.
+Công dân nước Việt Nam Dân chủ Cộng hoà có quyền khiếu nại và tố cáo với bất cứ cơ quan Nhà nước nào về những hành vi phạm pháp của nhân viên cơ quan Nhà nước. Những việc khiếu nại và tố cáo phải được xét và giải quyết nhanh chóng. Người bị thiệt hại vì hành vi phạm pháp của nhân viên cơ quan Nhà nước có quyền được bồi thường.
 
 #### Điều 30
-Nghị viện họp công khai, công chúng được vào nghe.
-
-Các báo chí được phép thuật lại các cuộc thảo luận và quyết nghị của Nghị viện.
-
-Trong những trường hợp đặc biệt, Nghị viện có thể quyết nghị họp kín.
+Công dân nước Việt Nam Dân chủ Cộng hoà có quyền làm việc. Nhà nước dựa vào sự phát triển có kế hoạch của nền kinh tế quốc dân, dần dần mở rộng công việc làm, cải thiện điều kiện lao động và lương bổng, để bảo đảm cho công dân được hưởng quyền đó.
 
 #### Điều 31
-Những luật đã được Nghị viện biểu quyết, Chủ tịch nước Việt Nam phải ban bố chậm nhất là 10 hôm sau khi nhận được thông tri. Nhưng trong hạn ấy, Chủ tịch có quyền yêu cầu Nghị viện thảo luận lại. Những luật đem ra thảo luận lại, nếu vẫn được Nghị viện ưng chuẩn thì bắt buộc Chủ tịch phải ban bố.
+Người lao động có quyền nghỉ ngơi. Nhà nước quy định thời giờ làm việc và chế độ nghỉ ngơi của công nhân và viên chức, mở rộng dần những điều kiện vật chất về nghỉ ngơi và an dưỡng, để bảo đảm cho người lao động được hưởng quyền đó.
 
 #### Điều 32
-Những việc quan hệ đến vận mệnh quốc gia sẽ đưa ra nhân dân phúc quyết, nếu hai phần ba tổng số nghị viên đồng ý.
-
-Cách thức phúc quyết sẽ do luật định.
+Người lao động có quyền được giúp đỡ về vật chất khi già yếu, bệnh tật, hoặc mất sức lao động. Nhà nước mở rộng dần các tổ chức bảo hiểm xã hội, cứu tế và y tế để bảo đảm cho người lao động được hưởng quyền đó.
 
 #### Điều 33
-Khi nào hai phần ba tổng số nghị viên đồng ý, Nghị viện có thể tự giải tán. Ban thường vụ thay mặt Nghị viện tuyên bố sự tự giải tán ấy.
+Công dân nước Việt Nam Dân chủ Cộng hoà có quyền học tập. Nhà nước thực hiện từng bước chế độ giáo dục cưỡng bách, phát triển dần các trường học và cơ quan văn hoá, phát triển các hình thức giáo dục bổ túc văn hoá, kỹ thuật, nghiệp vụ, tại các cơ quan, xí nghiệp và các tổ chức khác ở thành thị và nông thôn, để bảo đảm cho công dân được hưởng quyền đó.
 
 #### Điều 34
-Khi Nghị viện nhân dân đã hết hạn hoặc chưa hết hạn mà tự giải tán thì Ban thường vụ giữ chức quyền cho đến khi bầu lại Nghị viện nhân dân mới.
+Công dân nước Việt Nam Dân chủ Cộng hoà có quyền tự do nghiên cứu khoa học, sáng tác văn học, nghệ thuật, và tiến hành các hoạt động văn hoá khác. Nhà nước khuyến khích và giúp đỡ tính sáng tạo của những công dân theo đuổi sự nghiệp khoa học, văn học, nghệ thuật và các sự nghiệp văn hoá khác.
 
 #### Điều 35
-Hai tháng trước khi Nghị viện nhân dân hết hạn, Ban thường vụ tuyên bố cuộc bầu cử lại. Cuộc bầu cử mới phải làm xong trong hai tháng trước ngày Nghị viện hết hạn.
-
-Khi Nghị viện nhân dân tự giải tán, Ban thường vụ tuyên bố ngay cuộc bầu cử lại. Cuộc bầu cử mới làm xong trong hai tháng sau ngày Nghị viện tự giải tán.
-
-Chậm nhất là một tháng sau cuộc bầu cử, Ban thường vụ phải họp Nghị viện nhân dân mới.
-
-Trong khi có chiến tranh mà nghị viện hết hạn thì Nghị viện hoặc Ban thường vụ có quyền gia hạn thêm một thời gian không nhất định. Nhưng chậm nhất là sáu tháng sau khi chiến tranh kết liễu thì phải bầu lại Nghị viện.
+Nhà nước chú trọng đặc biệt việc giáo dục thanh niên về đức dục, trí dục, thể dục.
 
 #### Điều 36
-Khi Nghị viện không họp, Ban thường vụ có quyền:
-
-1. Biểu quyết những dự án sắc luật của Chính phủ. Những sắc luật đó phải đem trình Nghị viện vào phiên họp gần nhất để Nghị viện ưng chuẩn hoặc phế bỏ.
-2. Triệu tập Nghị viện nhân dân.
-3. Kiểm soát và phê bình Chính phủ.
+Nhà nước bảo hộ quyền lợi chính đáng của Việt kiều.
 
 #### Điều 37
-Phải có quá nửa tổng số nhân viên bỏ phiếu thuận, những nghị quyết của Ban thường vụ mới có giá trị.
+Những người nước ngoài vì đấu tranh cho tự do, cho chính nghĩa, cho hoà bình và cho sự nghiệp khoa học mà bị bức hại đều được Nhà nước Việt Nam Dân chủ Cộng hoà cho phép trú ngụ.
 
 #### Điều 38
-Khi Nghị viện không họp được, Ban thường vụ cùng với Chính phủ có quyền quyết định tuyên chiến hay đình chiến.
+Không ai được lợi dụng các quyền tự do dân chủ để xâm phạm đến lợi ích của Nhà nước và của nhân dân.
 
 #### Điều 39
-Đầu mỗi khoá họp, sau khi Ban thường vụ báo cáo công việc, vấn đề bỏ phiếu tín nhiệm Ban thường vụ có thể nêu ra, nếu có một phần tư tổng số nghị viên yêu cầu. Toàn Ban thường vụ phải từ chức nếu không được tín nhiệm. Nhân viên Ban thường vụ cũ có thể được bầu lại.
+Công dân nước Việt Nam Dân chủ Cộng hoà có nghĩa vụ tuân theo Hiến pháp, pháp luật, kỷ luật lao động, trật tự công cộng, và những quy tắc sinh hoạt xã hội.
 
 #### Điều 40
-Nếu chưa được Nghị viện nhân dân đồng ý hay trong lúc Nghị viện không họp mà chưa được Ban thường vụ đồng ý thì Chính phủ không được bắt giam và xét xử những nghị viên.
-
-Nghị viên không bị truy tố vì lời nói hay biểu quyết trong Nghị viện.
-
-Trong trường hợp phạm pháp quả tang, Chính phủ có thể bắt giam nghị viên ngay nhưng chậm nhất là 24 giờ phải thông tri cho Ban thường vụ. Ban thường vụ hoặc Nghị viện sẽ định đoạt.
-
-Khi một nghị viên mất quyền ứng cử thì đồng thời mất cả tư cách nghị viên.
+Tài sản công cộng của nước Việt Nam Dân chủ Cộng hoà là thiêng liêng không thể xâm phạm. Công dân có nghĩa vụ tôn trọng và bảo vệ tài sản công cộng.
 
 #### Điều 41
-Nghị viện phải xét vấn đề bãi miễn một nghị viên khi nhận được đề nghị của một phần tư tổng số cử tri tỉnh hay thành phố đã bầu ra nghị viên đó. Nếu hai phần ba tổng số nghị viên ưng thuận đề nghị bãi miễn thì nghị viên đó phải từ chức.
+Công dân nước Việt Nam Dân chủ Cộng hoà có nghĩa vụ đóng thuế theo pháp luật.
 
 #### Điều 42
-Phụ cấp của các nghị viên sẽ do luật định.
+Bảo vệ Tổ quốc là nghĩa vụ thiêng liêng và cao quý nhất của công dân nước Việt Nam Dân chủ Cộng hoà.
+Công dân có bổn phận làm nghĩa vụ quân sự để bảo vệ Tổ quốc.
 
-## Chương IV: CHÍNH PHỦ
+## Chương IV: QUỐC HỘI
 #### Điều 43
-Cơ quan hành chính cao nhất của toàn quốc là Chính phủ Việt Nam Dân chủ Cộng hoà.
+Quốc hội là cơ quan quyền lực Nhà nước cao nhất của nước Việt Nam Dân chủ Cộng hoà.
 
 #### Điều 44
-Chính phủ gồm có Chủ tịch nước Việt Nam Dân chủ Cộng hoà, Phó chủ tịch và Nội các.
-
-Nội các có Thủ tướng, các Bộ trưởng, Thứ trưởng. Có thể có Phó Thủ tướng.
+Quốc hội là cơ quan duy nhất có quyền lập pháp của nước Việt Nam Dân chủ Cộng hoà.
 
 #### Điều 45
-Chủ tịch nước Việt Nam Dân chủ Cộng hoà chọn trong Nghị viện nhân dân và phải được hai phần ba tổng số nghị viện bỏ phiếu thuận.
+Nhiệm kỳ của mỗi khoá Quốc hội là bốn năm.
 
-Nếu bỏ phiếu lần đầu mà không đủ số phiếu ấy, thì lần thứ nhì sẽ theo đa số tương đối.
+Hai tháng trước khi Quốc hội hết nhiệm kỳ thì phải bầu xong Quốc hội mới.
 
-Chủ tịch nước Việt Nam được bầu trong thời hạn 5 năm và có thể được bầu lại.
+Thể lệ bầu cử và số đại biểu Quốc hội do luật định.
 
-Trong vòng một tháng trước khi hết nhiệm kỳ của Chủ tịch, Ban thường vụ phải triệu tập Nghị viện để bầu Chủ tịch mới.
+Trong trường hợp xảy ra chiến tranh hoặc các trường hợp bất thường khác, Quốc hội có thể quyết định kéo dài nhiệm kỳ của mình và những biện pháp cần thiết để bảo đảm sự hoạt động của Quốc hội và của đại biểu Quốc hội.
 
 #### Điều 46
-Phó chủ tịch nước Việt Nam Dân chủ Cộng hoà chọn trong nhân dân và bầu theo lệ thường.
+Quốc hội mỗi năm họp hai lần, do Uỷ ban thường vụ Quốc hội triệu tập Uỷ ban thường vụ Quốc hội có thể triệu tập Quốc hội họp bất thường theo quyết định của mình hoặc theo yêu cầu của Hội đồng Chính phủ hay của ít nhất là một phần ba tổng số đại biểu Quốc hội.
 
-Nhiệm kỳ của Phó chủ tịch theo nhiệm kỳ của Nghị viện.
-
-Phó chủ tịch giúp đỡ Chủ tịch.
-
-Khi Chủ tịch từ trần hay từ chức thì Phó chủ tịch tạm quyền Chủ tịch. Chậm nhất là hai tháng phải bầu Chủ tịch mới.
+Uỷ ban thường vụ Quốc hội phải triệu tập Quốc hội mới chậm nhất là hai tháng sau khi tuyển cử.
 
 #### Điều 47
-Chủ tịch nước Việt Nam chọn Thủ tướng trong Nghị viện và đưa ra Nghị viện biểu quyết. Nếu được Nghị viện tín nhiệm, Thủ tướng chọn các Bộ trưởng trong Nghị viện và đưa ra Nghị viện biểu quyết toàn thể danh sách. Thứ trưởng có thể chọn ngoài Nghị viện và do Thủ tướng đề cử ra Hội đồng Chính phủ duyệt y.
-
-Nhân viên Ban thường vụ Nghị viện không được tham dự vào Chính phủ.
+Khi Quốc hội họp thì bầu Chủ tịch đoàn để điều khiển cuộc họp.
 
 #### Điều 48
-Nếu khuyết Bộ trưởng nào thì Thủ tướng thoả thuận với Ban thường vụ để chỉ định ngay người tạm thay cho đến khi Nghị viện họp và chuẩn y.
+Các đạo luật và các nghị quyết của Quốc hội phải được quá nửa tổng số đại biểu Quốc hội biểu quyết tán thành, trừ trường hợp quy định ở Điều 112 của Hiến pháp.
 
 #### Điều 49
-Quyền hạn của Chủ tịch nước Việt Nam Dân chủ Cộng hoà:
-
-1. Thay mặt cho nước.
-2. Giữ quyền Tổng chỉ huy quân đội toàn quốc, chỉ định hoặc cách chức các tướng soái trong lục quân, hải quân, không quân.
-3. Ký sắc lệnh bổ nhiệm Thủ tướng, nhân viên Nội các và nhân viên cao cấp thuộc các cơ quan Chính phủ.
-4. Chủ toạ Hội đồng Chính phủ.
-5. Ban bố các đạo luật đã được Nghị viện quyết nghị.
-6. Thưởng huy chương và các bằng cấp danh dự.
-7. Đặc xá.
-8. Ký hiệp ước với các nước.
-9. Phái đại biểu Việt Nam đến nước ngoài và tiếp nhận đại biểu ngoại giao của các nước.
-10. Tuyên chiến hay đình chiến theo như Điều 38 đã định.
+Các đạo luật phải được công bố chậm nhất là mười lăm ngày sau khi Quốc hội đã thông qua.
 
 #### Điều 50
-Chủ tịch nước Việt Nam không phải chịu một trách nhiệm nào, trừ khi phạm tội phản quốc.
+Quốc hội có những quyền hạn sau đây:
+
+1. Làm Hiến pháp và sửa đổi Hiến pháp.
+2. Làm pháp luật.
+3. Giám sát việc thi hành Hiến pháp.
+4. Bầu Chủ tịch và Phó Chủ tịch nước Việt Nam Dân chủ Cộng hoà.
+5. Theo đề nghị của Chủ tịch nước Việt Nam Dân chủ Cộng hoà quyết định cử Thủ tướng Chính phủ; theo đề nghị của Thủ tướng Chính phủ quyết định cử Phó Thủ tướng và các thành viên khác của Hội đồng Chính phủ.
+6. Theo đề nghị của Chủ tịch nước Việt Nam Dân chủ Cộng hoà quyết định cử Phó Chủ tịch và các thành viên khác của Hội đồng quốc phòng.
+7. Bầu Chánh án Toà án nhân dân tối cao.
+8. Bầu Viện trưởng Viện kiểm sát nhân dân tối cao.
+9. Bãi miễn Chủ tịch, Phó Chủ tịch nước Việt Nam Dân chủ Cộng hoà, Thủ tướng, Phó Thủ tướng và những thành viên khác của Hội đồng Chính phủ, Phó Chủ tịch và những thành viên khác của Hội đồng quốc phòng, Chánh án Toà án nhân dân tối cao, Viện trưởng Viện kiểm sát nhân dân tối cao.
+10. Quyết định kế hoạch kinh tế Nhà nước.
+11. Xét duyệt và phê chuẩn dự toán và quyết toán ngân sách của Nhà nước.
+12. Ấn định các thứ thuế.
+13. Phê chuẩn việc thành lập và bãi bỏ các Bộ và các cơ quan ngang Bộ.
+14. Phê chuẩn việc phân vạch địa giới tỉnh, khu tự trị và thành phố trực thuộc trung ương.
+15. Quyết định đại xá.
+16. Quyết định vấn đề chiến tranh và hoà bình.
+17. Những quyền hạn cần thiết khác do Quốc hội định.
 
 #### Điều 51
-Mỗi khi truy tố Chủ tịch, Phó chủ tịch hay một nhân viên Nội các về tội phản quốc, Nghị viện sẽ lập một Toà án đặc biệt để xét xử.
+Uỷ ban thường vụ Quốc hội là cơ quan thường trực của Quốc hội do Quốc hội bầu ra.
 
-Việc bắt bớ và truy tố trước Toà án một nhân viên Nội các về thường tội phải có sự ưng chuẩn của Hội đồng Chính phủ.
+Uỷ ban thường vụ Quốc hội gồm có:
+
+- Chủ tịch,
+- Các Phó Chủ tịch,
+- Tổng thư ký,
+- Các uỷ viên.
 
 #### Điều 52
-Quyền hạn của Chính phủ:
-
-1. Thi hành các đạo luật và quyết nghị của Nghị viện.
-2. Đề nghị những dự án luật ra trước Nghị viện.
-3. Đề nghị những dự án sắc luật ra trước Ban thường vụ, trong lúc Nghị viện không họp mà gặp trường hợp đặc biệt.
-4. Bãi bỏ những mệnh lệnh và nghị quyết của cơ quan cấp dưới, nếu cần.
-5. Bổ nhiệm hoặc cách chức các nhân viên trong các cơ quan hành chính hoặc chuyên môn.
-6. Thi hành luật động viên và mọi phương sách cần thiết để giữ gìn đất nước.
-7. Lập dự án ngân sách hàng năm.
+Uỷ ban thường vụ Quốc hội chịu trách nhiệm và báo cáo công tác trước Quốc hội.
+Quốc hội có quyền bãi miễn các thành viên của Uỷ ban thường vụ Quốc hội.
 
 #### Điều 53
-Mỗi Sắc lệnh của Chính phủ phải có chứ ký của Chủ tịch nước Việt Nam và tuỳ theo quyền hạn các Bộ, phải có một hay nhiều vị Bộ trưởng tiếp ký. Các vị Bộ trưởng ấy phải chịu trách nhiệm trước Nghị viện.
+Uỷ ban thường vụ Quốc hội có những quyền hạn sau đây:
+
+1. Tuyên bố và chủ trì việc tuyển cử đại biểu Quốc hội.
+2. Triệu tập Quốc hội.
+3. Giải thích pháp luật.
+4. Ra pháp luật.
+5. Quyết định việc trưng cầu ý kiến nhân dân.
+6. Giám sát công tác của Hội đồng Chính phủ, của Toà án nhân dân tối cao và của Viện kiểm sát nhân dân tối cao.
+7. Sửa đổi hoặc bãi bỏ những nghị định, nghị quyết, chỉ thị của Hội đồng Chính phủ trái với Hiến pháp, pháp luật, pháp lệnh; sửa đổi hoặc bãi bỏ những nghị quyết không thích đáng của Hội đồng nhân dân tỉnh, khu tự trị, thành phố trực thuộc trung ương, và giải tán các Hội đồng nhân dân nói trên trong trường hợp các Hội đồng nhân dân đó làm thiệt hại đến quyền lợi của nhân dân một cách nghiêm trọng.
+8. Trong thời gian Quốc hội không họp, quyết định việc bổ nhiệm hoặc bãi miễn Phó Thủ tướng và những thành viên khác của Hội đồng Chính phủ.
+9. Bổ nhiệm hoặc bãi miễn Phó Chánh án, thẩm phán Toà án nhân dân tối cao.
+10. Bổ nhiệm hoặc bãi miễn Phó Viện trưởng, kiểm sát viên Viện kiểm sát nhân dân tối cao.
+11. Quyết định việc bổ nhiệm hoặc bãi miễn các đại diện toàn quyền ngoại giao của nước Việt Nam Dân chủ Cộng hoà ở nước ngoài.
+12. Quyết định việc phê chuẩn hoặc bãi bỏ những hiệp ước ký với nước ngoài, trừ trường hợp mà Uỷ ban thường vụ Quốc hội xét cần phải trình Quốc hội quyết định.
+13. Quy định hàm và cấp quân sự, ngoại giao và những hàm và cấp khác.
+14. Quyết định đặc xá.
+15. Quy định và quyết định việc tặng thưởng huân chương và danh hiệu vinh dự của Nhà nước.
+16. Trong thời gian Quốc hội không họp, quyết định việc tuyên bố tình trạng chiến tranh trong trường hợp nước nhà bị xâm lược.
+17. Quyết định việc tổng động viên hoặc động viên cục bộ.
+18. Quyết định việc giới nghiêm trong toàn quốc hoặc từng địa phương.
+
+Ngoài những quyền hạn trên, Quốc hội có thể trao cho Uỷ ban thường vụ Quốc hội những quyền hạn khác khi xét thấy cần thiết.
 
 #### Điều 54
-Bộ trưởng nào không được Nghị viên tín nhiệm thì phải từ chức.
-
-Toàn thể Nội các không phải chịu liên đới trách nhiệm về hành vi một Bộ trưởng.
-
-Thủ tướng phải chịu trách nhiệm về con đường chính trị của Nội các. Nhưng Nghị viện chỉ có thể biểu quyết về vấn đề tín nhiệm khi Thủ tướng, Ban thường vụ hoặc một phần tư tổng số Nghị viện nêu vấn đề ấy ra.
-
-Trong hạn 24 giờ sau khi Nghị viện biểu quyết không tín nhiệm Nội các thì Chủ tịch nước Việt Nam có quyền đưa vấn đề tín nhiệm ra Nghị viện thảo luận lại. Cuộc thảo luận lần thứ hai phải cách cuộc thảo luận lần thứ nhất là 48 giờ. Sau cuộc biểu quyết này, Nội các mất tín nhiệm phải từ chức.
+Những nghị quyết của Uỷ ban thường vụ Quốc hội phải được quá nửa tổng số uỷ viên biểu quyết tán thành.
 
 #### Điều 55
-Các Bộ trưởng phải trả lời bằng thư từ hoặc bằng lời nói những điều chất vấn của Nghị viện hoặc của Ban thường vụ. Kỳ hạn trả lời chậm nhất là 10 ngày sau khi nhận được thư chất vấn.
+Uỷ ban thường vụ Quốc hội làm nhiệm vụ cho đến khi Quốc hội mới bầu xong Uỷ ban thường vụ mới.
 
 #### Điều 56
-Khi Nghị viện hết hạn hoặc tự giải tán, Nội các giữ chức quyền cho đến khi họp Nghị viện mới.
+Quốc hội bầu ra Uỷ ban thẩm tra tư cách đại biểu của đại biểu Quốc hội. Quốc hội căn cứ vào báo cáo của Uỷ ban thẩm tra mà quyết định xác nhận tư cách đại biểu của đại biểu Quốc hội.
 
-## Chương V: HỘI ĐỒNG NHÂN DÂN VÀ UỶ BAN HÀNH CHÍNH
 #### Điều 57
-Nước Việt Nam về phương diện hành chính gồm có ba bộ: Bắc, Trung, Nam. Mỗi bộ chia thành tỉnh, mỗi tỉnh chia thành huyện, mỗi huyện chia thành xã.
+Quốc hội thành lập Uỷ ban dự án pháp luật, Uỷ ban kế hoạch và ngân sách, và những uỷ ban khác mà Quốc hội xét thấy cần thiết để giúp Quốc hội và Uỷ ban thường vụ Quốc hội.
 
 #### Điều 58
-Ở tỉnh, thành phố, thị xã và xã có Hội đồng nhân dân do đầu phiếu phổ thông và trực tiếp bầu ra.
-
-Hội đồng nhân dân tỉnh, thành phố, thị xã hay xã cử ra Uỷ ban hành chính.
-
-Ở bộ và huyện, chỉ có Uỷ ban hành chính. Uỷ ban hành chính bộ do Hội đồng các tỉnh và thành phố bầu ra. Uỷ ban hành chính huyện do Hội đồng các xã bầu ra.
+Nếu Quốc hội nhận thấy cần thiết, và trong thời gian Quốc hội không họp, nếu Uỷ ban thường vụ Quốc hội nhận thấy cần thiết, thì có thể tổ chức các Uỷ ban điều tra về những vấn đề nhất định. Trong khi Uỷ ban điều tra làm việc, các cơ quan Nhà nước, đoàn thể nhân dân và công dân có nhiệm vụ cung cấp tài liệu cần thiết cho Uỷ ban điều tra.
 
 #### Điều 59
-Hội đồng nhân dân quyết nghị về những vấn đề thuộc địa phương mình. Những nghị quyết ấy không được trái với chỉ thị của các cấp trên.
-
-Uỷ ban hành chính có trách nhiệm:
-
-1. Thi hành các mệnh lệnh của cấp trên.
-2. Thi hành các nghị quyết của Hội đồng nhân dân địa phương mình sau khi được cấp trên chuẩn y.
-3. Chỉ huy công việc hành chính trong địa phương.
+Các đại biểu Quốc hội có quyền chất vấn Hội đồng Chính phủ và các cơ quan thuộc Hội đồng Chính phủ.
+Cơ quan bị chất vấn phải trả lời trong thời hạn năm ngày; trường hợp cần phải điều tra thì thời hạn trả lời là một tháng.
 
 #### Điều 60
-Uỷ ban hành chính chịu trách nhiệm đối với cấp trên và đối với Hội đồng nhân dân địa phương mình.
+Nếu không có sự đồng ý của Quốc hội, và trong thời gian Quốc hội không họp, nếu không có sự đồng ý của Uỷ ban thường vụ Quốc hội, thì không được bắt giam và truy tố đại biểu Quốc hội.
 
+## Chương V: CHỦ TỊCH NƯỚC VIỆT NAM DÂN CHỦ CỘNG HOÀ
 #### Điều 61
-Nhân viên Hội đồng nhân dân và Uỷ ban hành chính có thể bị bãi miễn.
-
-Cách thức bãi miễn sẽ do luật định.
+Chủ tịch nước Việt Nam Dân chủ Cộng hoà là người thay mặt cho nước Việt Nam Dân chủ Cộng hoà về mặt đối nội và đối ngoại.
 
 #### Điều 62
-Một đạo luật sẽ định rõ những chi tiết tổ chức các Hội đồng nhân dân và Uỷ ban hành chính.
+Chủ tịch nước Việt Nam Dân chủ Cộng hoà do Quốc hội nước Việt Nam Dân chủ Cộng hoà bầu ra. Công dân nước Việt Nam Dân chủ Cộng hoà từ ba mươi lăm tuổi trở lên có quyền ứng cử Chủ tịch nước Việt Nam Dân chủ Cộng hoà. Nhiệm kỳ của Chủ tịch nước Việt Nam Dân chủ Cộng hoà theo nhiệm kỳ của Quốc hội.
 
-## Chương VI: CƠ QUAN TƯ PHÁP
 #### Điều 63
-Cơ quan tư pháp của nước Việt Nam Dân chủ Cộng hoà gồm có:
-
-1. Toà án tối cao.
-2. Các toà án phúc thẩm.
-3. Các toà án đệ nhị cấp và sơ cấp.
+Chủ tịch nước Việt Nam Dân chủ Cộng hoà căn cứ vào quyết định của Quốc hội hoặc của Uỷ ban thường vụ Quốc hội mà công bố pháp luật, pháp lệnh; bổ nhiệm, bãi miễn Thủ tướng, Phó Thủ tướng và các thành viên khác của Hội đồng Chính phủ; bổ nhiệm, bãi miễn Phó Chủ tịch và các thành viên khác của Hội đồng quốc phòng; công bố lệnh đại xá và lệnh đặc xá; tặng thưởng huân chương và danh hiệu vinh dự của Nhà nước; tuyên bố tình trạng chiến tranh; công bố lệnh tổng động viên hoặc động viên cục bộ, công bố lệnh giới nghiêm.
 
 #### Điều 64
-Các viên thẩm phán đều do Chính phủ bổ nhiệm.
+Chủ tịch nước Việt Nam Dân chủ Cộng hoà tiếp nhận đại diện toàn quyền ngoại giao của nước ngoài cử đến; căn cứ vào quyết định của Quốc hội hoặc của Uỷ ban thường vụ Quốc hội mà phê chuẩn hiệp ước ký với nước ngoài, cử và triệu hồi đại diện toàn quyền ngoại giao của nước Việt Nam Dân chủ Cộng hoà ở nước ngoài.
 
 #### Điều 65
-Trong khi xử việc hình thì phải có phụ thẩm nhân dân để hoặc tham gia ý kiến nếu là việc tiểu hình, hoặc cùng quyết định với thẩm phán nếu là việc đại hình.
+Chủ tịch nước Việt Nam Dân chủ Cộng hoà thống lĩnh các lực lượng vũ tranh toàn quốc, giữ chức vụ Chủ tịch Hội đồng quốc phòng.
 
 #### Điều 66
-Quốc dân thiểu số có quyền dùng tiếng nói của mình trước Toà án.
+Chủ tịch nước Việt Nam Dân chủ Cộng hoà, khi xét thấy cần thiết, có quyền tham dự và chủ toạ các phiên họp của Hội đồng Chính phủ.
 
 #### Điều 67
-Các phiên toà án đều phải công khai, trừ những trường hợp đặc biệt.
+Chủ tịch nước Việt Nam Dân chủ Cộng hoà khi xét thấy cần thiết thì triệu tập và chủ toạ Hội nghị chính trị đặc biệt.
 
-Người bị cáo được quyền tự bào chữa lấy hoặc mượn luật sư.
+Hội nghị chính trị đặc biệt gồm có Chủ tịch và Phó Chủ tịch nước Việt Nam Dân chủ Cộng hoà, Chủ tịch Uỷ ban thường vụ Quốc hội, Thủ tướng Chính phủ và những người hữu quan khác.
+
+Hội nghị chính trị đặc biệt xét những vấn đề lớn của nước nhà. Những ý kiến của Hội nghị chính trị đặc biệt do Chủ tịch nước Việt Nam Dân chủ Cộng hoà chuyển đến Quốc hội, Uỷ ban thường vụ Quốc hội, Hội đồng Chính phủ hoặc các cơ quan hữu quan khác để thảo luận và ra quyết định.
 
 #### Điều 68
-Cấm không được tra tấn, đánh đập, ngược đãi những bị cáo và tội nhân.
+Phó Chủ tịch nước Việt Nam Dân chủ Cộng hoà giúp Chủ tịch làm nhiệm vụ, có thể được chủ tịch uỷ nhiệm thay thế Chủ tịch trong từng bộ phận chức quyền.
+
+Việc tuyển cử và nhiệm kỳ của Phó Chủ tịch quy định như việc tuyển cử và nhiệm kỳ của Chủ tịch.
 
 #### Điều 69
-Trong khi xét xử, các viên thẩm phán chỉ tuân theo pháp luật, các cơ quan khác không được can thiệp.
+Chủ tịch và Phó Chủ tịch nước Việt Nam Dân chủ Cộng hoà làm nhiệm vụ cho đến khi Chủ tịch mới và Phó Chủ tịch mới nhận chức.
 
-## Chương VII: SỬA ĐỔI HIẾN PHÁP
 #### Điều 70
-Sửa đổi Hiến pháp phải theo cách thức sau đây:
+Khi Chủ tịch nước Việt Nam Dân chủ Cộng hoà vì tình hình sức khoẻ mà không làm việc được trong một thời gian dài thì Phó Chủ tịch quyền Chủ tịch.
 
-1. Do hai phần ba tổng số nghị viên yêu cầu.
-2. Nghị viện bầu ra một ban dự thảo những điều thay đổi.
-3. Những điều thay đổi khi đã được Nghị viện ưng chuẩn thì phải đưa ra toàn dân phúc quyết./.
+Khi Chủ tịch nước Việt Nam Dân chủ Cộng hoà khuyết thì Phó Chủ tịch quyền Chủ tịch cho đến khi bầu xong Chủ tịch mới.
+
+## Chương VI: HỘI ĐỒNG CHÍNH PHỦ
+#### Điều 71
+Hội đồng Chính phủ là cơ quan chấp hành của cơ quan quyền lực Nhà nước cao nhất, và là cơ quan hành chính Nhà nước cao nhất của nước Việt Nam Dân chủ Cộng hoà.
+
+Hội đồng Chính phủ chịu trách nhiệm và báo cáo công tác trước Quốc hội, trong thời gian Quốc hội không họp thì chịu trách nhiệm và báo cáo công tác trước Uỷ ban thường vụ Quốc hội.
+
+#### Điều 72
+Hội đồng Chính phủ gồm có:
+
+- Thủ tướng,
+- Các Phó Thủ tướng,
+- Các Bộ trưởng,
+- Các Chủ nhiệm các Uỷ ban Nhà nước,
+- Tổng giám đốc ngân hàng Nhà nước.
+
+Tổ chức của Hội đồng Chính phủ do luật định.
+
+#### Điều 73
+Hội đồng Chính phủ căn cứ vào Hiến pháp, pháp luật và pháp lệnh mà quy định những biện pháp hành chính, ban bố những nghị định, nghị quyết, chỉ thị và kiểm tra việc thi hành những nghị định, nghị quyết và chỉ thị ấy.
+
+#### Điều 74
+Hội đồng Chính phủ có những quyền hạn sau đây:
+
+1. Trình dự án luật, dự án pháp lệnh và các dự án khác ra trước Quốc hội và Uỷ ban thường vụ Quốc hội.
+2. Thống nhất lãnh đạo công tác của các Bộ và các cơ quan thuộc Hội đồng Chính phủ.
+3. Thống nhất lãnh đạo công tác của Uỷ ban hành chính các cấp.
+4. Sửa đổi hoặc bãi bỏ những quyết định không thích đáng của các Bộ, các cơ quan thuộc Hội đồng Chính phủ; sửa đổi hoặc bãi bỏ những quyết định không thích đáng của Uỷ ban hành chính các cấp.
+5. Đình chỉ việc thi hành những nghị quyết không thích đáng của Hội đồng nhân dân tỉnh, khu tự trị, thành phố trực thuộc trung ương và đề nghị Uỷ ban thường vụ Quốc hội sửa đổi hoặc bãi bỏ những nghị quyết ấy.
+6. Chấp hành kế hoạch kinh tế và ngân sách Nhà nước.
+7. Quản lý nội thương và ngoại thương.
+8. Quản lý công tác văn hoá, xã hội.
+9. Bảo vệ lợi ích của Nhà nước, duy trì trật tự công cộng, bảo hộ quyền lợi của công dân.
+10. Lãnh đạo việc xây dựng lực lượng vũ trang của Nhà nước.
+11. Quản lý công tác đối ngoại.
+12. Quản lý công tác dân tộc.
+13. Phê chuẩn sự phân vạch địa giới của các đơn vị hành chính dưới cấp tỉnh.
+14. Thi hành lệnh động viên, lệnh giới nghiêm và mọi biện pháp cần thiết để bảo vệ đất nước.
+15. Bổ nhiệm và bãi miễn các nhân viên cơ quan Nhà nước theo quy định của pháp luật.
+
+Ngoài những quyền hạn trên, Quốc hội hoặc Uỷ ban thường vụ Quốc hội có thể trao cho Hội đồng Chính phủ những quyền hạn khác khi xét thấy cần thiết.
+
+#### Điều 75
+Thủ tướng Chính phủ chủ toạ Hội đồng Chính phủ và lãnh đạo công tác của Hội đồng Chính phủ. Các Phó thủ tướng giúp thủ tướng, có thể được uỷ nhiệm thay Thủ tướng khi Thủ tướng vắng mặt.
+
+#### Điều 76
+Các Bộ trưởng và thủ trưởng các cơ quan thuộc Hội đồng Chính phủ lãnh đạo công tác của ngành mình dưới sự lãnh đạo thống nhất của Hội đồng Chính phủ.
+
+Trong phạm vi quyền hạn của mình, trên cơ sở và để thi hành pháp luật và các nghị định, nghị quyết, chỉ thị của Hội đồng Chính phủ, các Bộ trưởng và thủ trưởng các cơ quan thuộc Hội đồng Chính phủ ra những thông tư, chỉ thị và kiểm tra việc thi hành các thông tư, chỉ thị ấy.
+
+#### Điều 77
+Trong khi thi hành chức vụ, các thành viên của Hội đồng Chính phủ phải chịu trách nhiệm trước pháp luật về những hành vi trái với Hiến pháp và pháp luật gây thiệt hại cho Nhà nước hay là cho nhân dân.
+
+## Chương VII: HỘI ĐỒNG NHÂN DÂN VÀ UỶ BAN HÀNH CHÍNH ĐỊA PHƯƠNG CÁC CẤP
+#### Điều 78
+Các đơn vị hành chính trong nước Việt Nam Dân chủ Cộng hoà phân định như sau:
+
+Nước chia thành tỉnh, khu tự trị, thành phố trực thuộc trung ương;
+
+Tỉnh chia thành huyện, thành phố, thị xã;
+
+Huyện chia thành xã, thị trấn.
+
+Các đơn vị hành chính trong khu vực tự trị do luật định.
+
+#### Điều 79
+Các đơn vị hành chính kể trên đều thành lập Hội đồng nhân dân và Uỷ ban hành chính.
+
+Các thành phố có thể chia thành khu phố có Hội đồng nhân dân và Uỷ ban hành chính theo quyết định của Hội đồng Chính phủ.
+
+#### Điều 80
+Hội đồng nhân dân các cấp là cơ quan quyền lực Nhà nước ở địa phương.
+
+Hội đồng nhân dân các cấp do nhân dân địa phương bầu ra và chịu trách nhiệm trước nhân dân địa phương.
+
+#### Điều 81
+Nhiệm kỳ của mỗi khoá Hội đồng nhân dân tỉnh, khu tự trị, thành phố trực thuộc trung ương là ba năm.
+
+Nhiệm kỳ của mỗi khoá Hội đồng nhân dân huyện, thành phố, thị xã, xã, thị trấn, khu phố là hai năm.
+
+Nhiệm kỳ của mỗi khoá Hội đồng nhân dân các cấp trong khu vực tự trị do luật định.
+
+Thể lệ tuyển cử và số đại biểu của Hội đồng nhân dân các cấp do luật định.
+
+#### Điều 82
+Hội đồng nhân dân bảo đảm sự tôn trọng và chấp hành pháp luật của Nhà nước ở địa phương; đặt kế hoạch xây dựng kinh tế, văn hoá và những sự nghiệp lợi ích công cộng ở địa phương; xét duyệt và phê chuẩn dự toán và quyết toán ngân sách của địa phương; duy trì trật tự và an ninh ở địa phương, bảo vệ tài sản công cộng, bảo hộ quyền lợi của công dân, bảo đảm quyền bình đẳng của các dân tộc.
+
+#### Điều 83
+Căn cứ vào pháp luật của Nhà nước và nghị quyết của cấp trên, Hội đồng nhân dân ra những nghị quyết thi hành ở địa phương.
+
+#### Điều 84
+Hội đồng nhân dân bầu ra Uỷ ban hành chính và có quyền bãi miễn các thành viên của Uỷ ban hành chính.
+
+Hội đồng nhân dân bầu và bãi miễn Chánh án Toà án nhân dân cấp mình.
+
+#### Điều 85
+Hội đồng nhân dân có quyền sửa đổi hoặc bãi bỏ những quyết định không thích đáng của Uỷ ban hành chính cấp mình; có quyền sửa đổi hoặc bãi bỏ những nghị quyết không thích đáng của Hội đồng nhân dân cấp dưới trực tiếp và những quyết định không thích đáng của Uỷ ban hành chính cấp dưới trực tiếp.
+
+#### Điều 86
+Hội đồng nhân dân các cấp có quyền giải tán Hội đồng nhân dân cấp dưới trực tiếp khi Hội đồng nhân dân này làm thiệt hại đến quyền lợi của nhân dân một cách nghiêm trọng. Nghị quyết giải tán phải được Hội đồng nhân dân cấp trên trực tiếp phê chuẩn trước khi thi hành. Nghị quyết giải tán phải được Hội đồng nhân dân cấp trên trực tiếp phê chuẩn trước khi thi hành. Nghị quyết giải tán của Hội đồng nhân dân tỉnh, khu tự trị, thành phố trực thuộc trung ương phải được Uỷ ban thường vụ Quốc hội phê chuẩn trước khi thi hành.
+
+#### Điều 87
+Uỷ ban hành chính các cấp là cơ quan chấp hành của Hội đồng nhân dân địa phương, là cơ quan hành chính của Nhà nước ở địa phương.
+
+#### Điều 88
+Uỷ ban hành chính gồm có Chủ tịch, một hoặc nhiều Phó Chủ tịch, uỷ viên thư ký và các uỷ viên.
+
+Nhiệm kỳ của Uỷ ban hành chính theo nhiệm kỳ của Hội đồng nhân dân đã bầu ra mình.
+
+Khi Hội đồng nhân dân hết nhiệm kỳ hoặc bị giải tán, Uỷ ban hành chính tiếp tục làm nhiệm vụ cho đến khi Hội đồng nhân dân mới bầu ra Uỷ ban hành chính mới.
+
+Tổ chức của Uỷ ban hành chính các cấp do luật định.
+
+#### Điều 89
+Uỷ ban hành chính các cấp quản lý công tác hành chính của địa phương; chấp hành nghị quyết của Hội đồng nhân dân cấp mình và nghị quyết, mệnh lệnh của cơ quan hành chính Nhà nước cấp trên.
+
+Uỷ ban hành chính các cấp chiếu theo quyền hạn do luật định mà ra quyết định, chỉ thị và kiểm tra việc thi hành những quyết định, chỉ thị ấy.
+
+#### Điều 90
+Uỷ ban hành chính các cấp lãnh đạo công tác của các ngành thuộc quyền mình và của các Uỷ ban hành chính cấp dưới.
+
+Uỷ ban hành chính các cấp có quyền sửa đổi hoặc bãi bỏ những quyết định không thích đáng của các ngành công tác thuộc quyền mình và của Uỷ ban hành chính cấp dưới.
+
+Uỷ ban hành chính các cấp có quyền đình chỉ việc thi hành những nghị quyết không thích đáng của Hội đồng nhân dân cấp dưới trực tiếp và đề nghị Hội đồng nhân dân cấp mình sửa đổi hoặc bãi bỏ những nghị quyết ấy.
+
+#### Điều 91
+Uỷ ban hành chính các cấp chịu trách nhiệm và báo cáo công tác trước Hội đồng nhân dân cấp mình và trước cơ quan hành chính Nhà nước cấp trên trực tiếp.
+
+Uỷ ban hành chính các cấp chịu sự lãnh đạo của Uỷ ban hành chính cấp trên và sự lãnh đạo thống nhất của Hội đồng Chính phủ.
+
+Hội đồng nhân dân và Uỷ ban hành chính ở các khu tự trị
+
+#### Điều 92
+Tổ chức Hội đồng nhân dân và Uỷ ban hành chính ở các khu tự trị phải căn cứ vào những nguyên tắc cơ bản về tổ chức Hội đồng nhân dân và Uỷ ban hành chính các cấp quy định ở trên.
+
+#### Điều 93
+Trong những khu vực tự trị có nhiều dân tộc sống xen lẵn, Hội đồng nhân dân sẽ có số đại biểu thích đáng của các dân tộc.
+
+#### Điều 94
+Hội đồng nhân dân và Uỷ ban hành chính các khu tự trị chiếu theo phạm vi quyền hạn tự trị do pháp luật quy định mà đặt kế hoạch phát triển kinh tế và văn hoá thích hợp với tình hình địa phương, quản lý tài chính, tổ chức các lực lượng dân quân tự vệ và công an của địa phương.
+
+#### Điều 95
+Trong phạm vi quyền hạn tự trị, Hội đồng nhân dân các khu tự trị có thể chiếu theo những đặc điểm chính trị, kinh tế, văn hoá của các dân tộc ở địa phương mà đặt ra điều lệ tự trị và những điều lệ về những vấn đề riêng biệt để thi hành ở địa phương sau khi đã được Uỷ ban thường vụ Quốc hội phê chuẩn.
+
+#### Điều 96
+Cơ quan Nhà nước cấp trên phải bảo đảm cho Hội đồng nhân dân và Uỷ ban hành chính các khu vực tự trị sử dụng quyền tự trị và giúp đỡ các dân tộc thiểu số tiến hành thuận lợi việc xây dựng chính trị, kinh tế và văn hoá của mình.
+
+## Chương VIII: TOÀ ÁN NHÂN DÂN VÀ VIỆN KIỂM SÁT NHÂN DÂN TOÀ ÁN NHÂN DÂN
+#### Điều 97
+Toà án nhân dân tối cao nước Việt Nam Dân chủ Cộng hoà, các Toà án nhân dân địa phương, các Toà án quân sự là những cơ quan xét xử của nước Việt Nam Dân chủ Cộng hoà.
+
+Trong trường hợp cần xét xử những vụ án đặc biệt, Quốc hội có thể quyết định thành lập Toà án đặc biệt.
+
+#### Điều 98
+Các Toà án nhân dân thực hành chế độ thẩm phán bầu theo quy định của pháp luật.
+
+Nhiệm kỳ của Chánh án Toà án nhân dân tối cao là năm năm.
+
+Tổ chức của các Toà án nhân dân do luật định.
+
+#### Điều 99
+Việc xét xử ở các Toà án nhân dân có hội thẩm nhân dân tham gia theo quy định của pháp luật. Khi xét xử, hội thẩm nhân dân ngang quyền với thẩm phán.
+
+#### Điều 100
+Khi xét xử, Toà án nhân dân có quyền độc lập và chỉ tuân theo pháp luật.
+
+#### Điều 101
+Việc xét xử tại các Toà án nhân dân đều công khai, trừ những trường hợp đặc biệt do luật định.
+
+Quyền bào chữa của người bị cáo được bảo đảm.
+
+#### Điều 102
+Toà án nhân dân bảo đảm cho công dân nước Việt Nam Dân chủ Cộng hoà thuộc các dân tộc thiểu số có thể dùng tiếng nói và chữ viết của mình trước Toà án.
+
+#### Điều 103
+Toà án nhân dân tối cao là cơ quan xét xử cao nhất của nước Việt Nam Dân chủ Cộng hoà.
+
+Toà án nhân dân tối cao giám đốc việc xét xử của các Toà án nhân dân địa phương, Toà án quân sự và Toà án đặc biệt.
+
+#### Điều 104
+Toà án nhân dân tối cao chịu trách nhiệm và báo cáo công tác trước Quốc hội, trong thời gian Quốc hội không họp thì chịu trách nhiệm và báo cáo công tác trước Uỷ ban thường vụ Quốc hội. Các Toà án nhân dân địa phương chịu trách nhiệm và báo cáo công tác trước Hội đồng nhân dân địa phương.
+
+### VIỆN KIỂM SÁT NHÂN DÂN
+#### Điều 105
+Viện kiểm sát nhân dân tối cao nước Việt Nam Dân chủ Cộng hoà kiểm sát việc tuân theo pháp luật của các cơ quan thuộc Hội đồng Chính phủ, cơ quan Nhà nước địa phương, các nhân viên cơ quan Nhà nước và công dân.
+
+Các Viện kiểm sát nhân dân địa phương và Viện kiểm sát quân sự có quyền kiểm sát trong phạm vi do luật định.
+
+#### Điều 106
+Nhiệm kỳ của Viện trưởng Viện kiểm sát nhân dân tối cao là năm năm.
+
+Tổ chức của các Viện kiểm sát nhân dân do luật định.
+
+#### Điều 107
+Viện kiểm sát nhân dân các cấp chỉ chịu sự lãnh đạo của Viện kiểm sát nhân dân cấp trên và sự lãnh đạo thống nhất của Viện kiểm sát nhân dân tối cao.
+
+#### Điều 108
+Viện kiểm sát nhân dân tối cao chịu trách nhiệm và báo cáo công tác trước Quốc hội, trong thời gian Quốc hội không họp thì chịu trách nhiệm và báo cáo công tác trước Uỷ ban thường vụ Quốc hội.
+
+## Chương IX: QUỐC KỲ - QUỐC HUY - THỦ ĐÔ
+#### Điều 109
+Quốc kỳ nước Việt Nam Dân chủ Cộng hoà nền đỏ, ở giữa có ngôi sao vàng năm cánh.
+
+#### Điều 110
+Quốc huy nước Việt Nam Dân chủ Cộng hoà hình tròn, nền đỏ, ở giữa có ngôi sao vàng năm cánh, xung quanh có bông lúa, ở dưới có nửa bánh xe răng cưa và dòng chữ "Việt Nam Dân chủ Cộng hoà".
+
+#### Điều 111
+Thủ đô nước Việt Nam Dân chủ Cộng hoà là Hà Nội.
+
+## Chương X: SỬA ĐỔI HIẾN PHÁP
+#### Điều 112
+Chỉ có Quốc hội mới có quyền sửa đổi Hiến pháp. Việc sửa đổi phải được ít nhất là hai phần ba tổng số đại biểu Quốc hội biểu quyết tán thành.
